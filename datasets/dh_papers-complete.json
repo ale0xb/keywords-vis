@@ -1,0 +1,3188 @@
+[{
+		"title": "Show Ambiguity: Collaboration, Anxiety, and the Pleasures of Unknowing.",
+		"keywords": [
+			"esthetics",
+			"assessment",
+			"collaboration",
+			"digital humanities",
+			"evaluation",
+			"methodology",
+			"poetry",
+			"rhyme",
+			"sound",
+			"visualization"
+		],
+		"authors": "Coles, Katharine",
+		"conference": "Proc. 1st Workshop on Visualization for the Digital Humanities (VIS4DH)",
+		"year": 2016
+	},
+	{
+		"title": "AnnotateVis: Combining Traditional Close Reading with Visual Text Analysis",
+		"keywords": [
+			"annotation tool",
+			"close reading",
+			"distant reading"
+		],
+		"authors": "Cheema, Muhammad Faisal; Jänicke, Stefan; Scheuermann, Gerik",
+		"conference": "Proc. 1st Workshop on Visualization for the Digital Humanities (VIS4DH)",
+		"year": 2016
+	},
+	{
+		"title": "A Synoptic Visualization Framework for the Multi-Perspective Study of Biography and Prosopography Data",
+		"keywords": [
+			"biography data",
+			"information integration",
+			"information visualization",
+			"mental model",
+			"prosopography data",
+			"visual analytics"
+		],
+		"authors": "Windhager, Florian; Federico, Paolo; Salisu, Saminu; Schlögl, Matthias; Mayr, Eva",
+		"conference": "Proc. 2nd Workshop on Visualization for the Digital Humanities (VIS4DH)",
+		"year": 2017
+	},
+	{
+		"title": "Feminist data visualization",
+		"keywords": [
+			"critical perspectives",
+			"digital humanities",
+			"feminism",
+			"inclusion",
+			"visualization"
+		],
+		"authors": "D’Ignazio, Catherine; Klein, Lauren F",
+		"conference": "Proc. 1st Workshop on Visualization for the Digital Humanities (VIS4DH)",
+		"year": 2016
+	},
+	{
+		"title": "GlamMap: Geovisualization for e-Humanities",
+		"keywords": [
+			"clustering",
+			"image generation",
+			"information retrieval"
+		],
+		"authors": "Castermans, T. H. A.; Speckmann, B.; Verbeek, K. a. B.; Westenberg, M. A.; Betti, A.; Berg, H. van den",
+		"conference": "Proc. 1st Workshop on Visualization for the Digital Humanities (VIS4DH)",
+		"year": 2016
+	},
+	{
+		"title": "Visualization of Cultural Heritage Data for Casual Users",
+		"keywords": [
+			"cultural heritage",
+			"digital humanities",
+			"casual information visualization",
+			"digital collections"
+		],
+		"authors": "Mayr, Eva; Federico, Paolo; Miksch, Silvia; Schreder, Günther; Smuc, Michael; Windhager, Florian",
+		"conference": "Proc. 1st Workshop on Visualization for the Digital Humanities (VIS4DH)",
+		"year": 2016
+	},
+	{
+		"title": "Immersive Analytics and Deep Maps – the Next Big Thing for Cultural Heritage & Archaeology",
+		"keywords": [
+			"cultural heritage",
+			"digital humanities",
+			"information visualization",
+			"alternative representations",
+			"immersive visual analytics"
+		],
+		"authors": "Roberts, Jonathan C.; Mearman, Joseph W.; Panagiotis, D. Ritsos; Miles, Helen C.; Wilson, Andrew T.; Perkins, Dave E.; Jackson, James R.; Tiddeman, Bernard; Labrosse, Frédéric; Edwards, Ben; Karl, Raimund",
+		"conference": "Proc. 1st Workshop on Visualization for the Digital Humanities (VIS4DH)",
+		"year": 2016
+	},
+	{
+		"title": "When the Tech Kids are Running Too Fast : Data Visualisation Through the Lens of Art History Research",
+		"keywords": [
+			"data visualization",
+			"digital humanities",
+			"digital art history",
+			"art history"
+		],
+		"authors": "Lamqaddam, Houda; Brosens, Koenraad; Truyen, Frederik; Beerens, Jos; de Prekel, Inez; Verbert, Katrien",
+		"conference": "Proc. 3rd Workshop on Visualization for the Digital Humanities (VIS4DH)",
+		"year": 2018
+	},
+	{
+		"title": "Valuable Research for Visualization and Digital Humanities: A Balancing Act",
+		"keywords": [
+			"digital humanist",
+			"digital humanities conference",
+			"survey"
+		],
+		"authors": "Jänicke, Stefan",
+		"conference": "Proc. 1st Workshop on Visualization for the Digital Humanities (VIS4DH)",
+		"year": 2016
+	},
+	{
+		"title": "Addressing Variation at Scale in Historical Document Collections",
+		"keywords": [
+			"digital humanities",
+			"early modern literature",
+			"visualization"
+		],
+		"authors": "Alexander, Eric; Stuffer, Deidre; Gleicher, Michael",
+		"conference": "Proc. 1st Workshop on Visualization for the Digital Humanities (VIS4DH)",
+		"year": 2016
+	},
+	{
+		"title": "A public exploratory data analysis of gender bias in teaching evaluations",
+		"keywords": [
+			"digital humanities",
+			"exploratory data analysis",
+			"gender bias",
+			"teaching evaluations",
+			"text visualization"
+		],
+		"authors": "Schmidt, Benjamin M.",
+		"conference": "Proc. 1st Workshop on Visualization for the Digital Humanities (VIS4DH)",
+		"year": 2016
+	},
+	{
+		"title": "Scalable MovieBarcodes – An Exploratory Interface for the Analysis of Movies",
+		"keywords": [
+			"digital humanities",
+			"exploratory interfaces",
+			"movie barcodes",
+			"scalable reading",
+			"visual movie analytics"
+		],
+		"authors": "Burghardt, Manuel; Kao, Michael; Walkowski, Niels-Oliver",
+		"conference": "Proc. 3rd Workshop on Visualization for the Digital Humanities (VIS4DH)",
+		"year": 2018
+	},
+	{
+		"title": "Visualizing the spatiality in fictional narratives",
+		"keywords": [
+			"digital humanities",
+			"information visualization",
+			"literature",
+			"geo visualization"
+		],
+		"authors": "Stange, Jan-Erik; Dörk, Marian",
+		"conference": "Proc. 1st Workshop on Visualization for the Digital Humanities (VIS4DH)",
+		"year": 2016
+	},
+	{
+		"title": "Retaining Potentially Meaningful Spatial Structural Aspects Across Discipline Specific Concept Maps",
+		"keywords": [
+			"digital humanities",
+			"information visualization",
+			"perception",
+			"concept mapping",
+			"design articulations"
+		],
+		"authors": "Panagiotidou, Georgia; Vande Moere, Andrew",
+		"conference": "Proc. 3rd Workshop on Visualization for the Digital Humanities (VIS4DH)",
+		"year": 2018
+	},
+	{
+		"title": "Visualization, Digital Humanities, and the Problem of Instrumentalism",
+		"keywords": [
+			"digital humanities",
+			"instrumentality",
+			"visualization"
+		],
+		"authors": "Bradley, Adam James; Mehta, Hrim; Hancock, Mark; Collins, Christopher",
+		"conference": "Proc. 1st Workshop on Visualization for the Digital Humanities (VIS4DH)",
+		"year": 2016
+	},
+	{
+		"title": "Supporting Discovery through Contextual Representation: Developing a Tool for Visually Exploring Slave Narratives",
+		"keywords": [
+			"digital humanities",
+			"interactive visual analytics",
+			"named entity classification",
+			"slave narratives"
+		],
+		"authors": "Chen, Annie T.; Martell, Jessica; Lach, Pamella",
+		"conference": "Proc. 1st Workshop on Visualization for the Digital Humanities (VIS4DH)",
+		"year": 2016
+	},
+	{
+		"title": "Visualisation Approaches for Corpus Linguistics: towards Visual Integration of Data-Driven Learning",
+		"keywords": [
+			"digital humanities",
+			"linguistics",
+			"information visualization",
+			"academic writing"
+		],
+		"authors": "Roberts, Jonathan C.; Frankenberg-Garcia, Ana; Lew, Robert; Rees, Geraint; Sharma, Nirwan",
+		"conference": "Proc. 3rd Workshop on Visualization for the Digital Humanities (VIS4DH)",
+		"year": 2018
+	},
+	{
+		"title": "Understanding the Use of The Vistorian: Complementing Logs with Context Mini-Questionnaires",
+		"keywords": [
+			"history",
+			"digital humanities",
+			"network visualization",
+			"logs",
+			"understanding users"
+		],
+		"authors": "Serrano Molinero, Vanessa; Bach, Benjamin; Plaisant, Catherine; Dufournaud, Nicole; Fekete, Jean-Daniel",
+		"conference": "Proc. 2nd Workshop on Visualization for the Digital Humanities (VIS4DH)",
+		"year": 2017
+	},
+	{
+		"title": "Tangible User Interfaces as a Pathway for Information Visualisation for Low Digital Literacy in the Digital Humanities",
+		"keywords": [
+			"human-computer interaction",
+			"digital humanities",
+			"tangible user interface",
+			"human information interaction"
+		],
+		"authors": "Pereda, Javier; Murrieta Flores, Patricia A.; Panagiotis, D. Ritsos; Roberts, Jonathan C.",
+		"conference": "Proc. 2nd Workshop on Visualization for the Digital Humanities (VIS4DH)",
+		"year": 2017
+	},
+	{
+		"title": "Analyzing Visual Mappings of Traditional and Alternative Music Notation",
+		"keywords": [
+			"information visualization",
+			"design guidelines",
+			"music analysis",
+			"music notation",
+			"visual mapping",
+			"visualization pipeline"
+		],
+		"authors": "Miller, Matthias; Häußler, Johannes; Kraus, Matthias; Keim, Daniel; El-Assady, Mennatallah",
+		"conference": "Proc. 3rd Workshop on Visualization for the Digital Humanities (VIS4DH)",
+		"year": 2018
+	},
+	{
+		"title": "Visualizing Variation in Classical Text with Force Directed Storylines",
+		"keywords": [
+			"storyline visualization",
+			"dynamic queries",
+			"collation",
+			"critical edition",
+			"force directed layout",
+			"latin texts",
+			"textual criticism"
+		],
+		"authors": "Silvia, Shejuti; Etemadpour, Ronak; Abbas, June; Huskey, Sam; Weaver, Chris",
+		"conference": "Proc. 1st Workshop on Visualization for the Digital Humanities (VIS4DH)",
+		"year": 2016
+	},
+	{
+		"title": "Teaching Literary Text Analysis and Visualization with R",
+		"keywords": [
+			"text analysis",
+			"visualization",
+			"digital humanities",
+			"r",
+			"repeatable workflows"
+		],
+		"authors": "Gniady, Tassie; Wernert, Eric",
+		"conference": "Proc. 1st Workshop on Visualization for the Digital Humanities (VIS4DH)",
+		"year": 2016
+	},
+	{
+		"title": "Close and Distant Reading via Named Entity Network Visualization: A Case Study of Women Writers Online",
+		"keywords": [
+			"text visualization",
+			"bipartite network visualization",
+			"women writers online"
+		],
+		"authors": "Campbell, Sarah; Yu, Zheng-yan; Connell, Sarah; Dunne, Cody",
+		"conference": "Proc. 3rd Workshop on Visualization for the Digital Humanities (VIS4DH)",
+		"year": 2018
+	},
+	{
+		"title": "Towards Visual Analytics of Multilayer Graphs for Digital Cultural Heritage",
+		"keywords": [
+			"visual analytics",
+			"digital cultural heritage",
+			"multilayer graphs"
+		],
+		"authors": "McGee, Fintan",
+		"conference": "Proc. 1st Workshop on Visualization for the Digital Humanities (VIS4DH)",
+		"year": 2016
+	},
+	{
+		"title": "A Visual Analytics Approach for Semantic Multi-Video Annotation",
+		"keywords": [
+			"visual analytics",
+			"digital humanities",
+			"movie analysis"
+		],
+		"authors": "John, Markus; Kurzhals, Kuno; Koch, Steffen; Weiskopf, Daniel",
+		"conference": "Proc. 2nd Workshop on Visualization for the Digital Humanities (VIS4DH)",
+		"year": 2017
+	},
+	{
+		"title": "Using Dynamic Hypergraphs to Reveal the Evolution of the Business Network of a 17th Century French Woman Merchant",
+		"keywords": [
+			"visual analytics",
+			"history",
+			"case study",
+			"dynamic graph",
+			"hypergraph"
+		],
+		"authors": "Valdivia, Paola; Buono, Paolo; Plaisant, Catherine; Dufournaud, Nicole; Fekete, Jean-Daniel",
+		"conference": "Proc. 3rd Workshop on Visualization for the Digital Humanities (VIS4DH)",
+		"year": 2018
+	},
+	{
+		"title": "Pre-visualization",
+		"keywords": [
+			"visualization",
+			"digital humanities",
+			"poetry",
+			"critical practice",
+			"design thinking",
+			"modeling",
+			"transmedia"
+		],
+		"authors": "Wrisley, David Joseph",
+		"conference": "Proc. 3rd Workshop on Visualization for the Digital Humanities (VIS4DH)",
+		"year": 2018
+	},
+	{
+		"title": "Think Like a Machine (or not)",
+		"keywords": [
+			"visualization",
+			"methodology",
+			"digital humanities",
+			"collaboration",
+			"poetry",
+			"esthetics",
+			"assessment",
+			"rhyme",
+			"sound"
+		],
+		"authors": "Coles, Katharine",
+		"conference": "Proc. 2nd Workshop on Visualization for the Digital Humanities (VIS4DH)",
+		"year": 2017
+	},
+	{
+		"title": "'Shall I compare thee to a network?': Visualizing the Topological Structure of Shakespeare’s Plays",
+		"keywords": [
+			"visualization",
+			"shakespeare",
+			"social network analysis",
+			"topology",
+			"persistent homology"
+		],
+		"authors": "Rieck, Bastian; Leitte, Heike",
+		"conference": "Proc. 1st Workshop on Visualization for the Digital Humanities (VIS4DH)",
+		"year": 2016
+	},
+	{
+		"title": "\"On the Clock\": Grading the NFL Draft Pundits",
+		"keywords": [
+			"popular culture",
+			"sports",
+			"sabermetrics",
+			"data visualization",
+			"football"
+		],
+		"authors": "Quamen,Harvey;Bouchard,Matt;Keenan,Andrew",
+		"conference": "Digital Humanities 2015",
+		"year": 2015
+	},
+	{
+		"title": "Building The Early Modern Digital University: Using Social Network Analysis and Digital Visualization Tools To Bring The Early Modern Network Of Networks (EMNON) To Life",
+		"keywords": [
+			"network analysis",
+			"visualization"
+		],
+		"authors": "Wilson,Emma Annette",
+		"conference": "Digital Humanities 2015",
+		"year": 2015
+	},
+	{
+		"title": "Through the Magnifying Glass: Rolling Stylometry for Collaborative Authorship",
+		"keywords": [
+			"rolling stylometry",
+			"authorship attribution",
+			"collaborative authorship",
+			"sequential analysis"
+		],
+		"authors": "Eder,Maciej",
+		"conference": "Digital Humanities 2015",
+		"year": 2015
+	},
+	{
+		"title": "A Digital Humanities GIS Ontology: Tweetflickertubing James Joyce’s \"Ulysses\" (1922)",
+		"keywords": [
+			"gis",
+			"ulysses",
+			"social media",
+			"literature",
+			"history"
+		],
+		"authors": "Travis,Charles Bartlett",
+		"conference": "Digital Humanities 2015",
+		"year": 2015
+	},
+	{
+		"title": "A 3D Model Of The Venetian Galeazza",
+		"keywords": [
+			"3d modeling",
+			"cad",
+			"galeazza",
+			"render",
+			"venice"
+		],
+		"authors": "Cavinato,Alessandro;Geissmann,Beat;Vandevelde,Konrad Robert;Dalang,Olivier;Rodighiero,Dario",
+		"conference": "Digital Humanities 2015",
+		"year": 2015
+	},
+	{
+		"title": "Generating Navigable Semantic Maps from Social Sciences Corpora",
+		"keywords": [
+			"information extraction",
+			"graphs",
+			"visualization"
+		],
+		"authors": "Poibeau,Thierry",
+		"conference": "Digital Humanities 2015",
+		"year": 2015
+	},
+	{
+		"title": "Interactive Similarity Analysis of Early New High German Text Variants",
+		"keywords": [
+			"genetic edition",
+			"manuscript",
+			"text comparison",
+			"visualization",
+			"early new high german"
+		],
+		"authors": "Medek,André;Ritter,Jörg;Molitor,Paul;Kösser,Sylwia",
+		"conference": "Digital Humanities 2015",
+		"year": 2015
+	},
+	{
+		"title": "Patterns of Novelty in Literary Data",
+		"keywords": [
+			"information theory",
+			"novelty",
+			"literary studies"
+		],
+		"authors": "Higgins,Devin Cook;Padilla,Thomas George;Hintze,Arend",
+		"conference": "Digital Humanities 2015",
+		"year": 2015
+	},
+	{
+		"title": "Exploratory Search Through Interactive Visualization of Topic Models",
+		"keywords": [
+			"text visualization",
+			"topic models",
+			"corpus analysis",
+			"graphical user interface"
+		],
+		"authors": "Jähnichen,Patrick;Österling,Patrick;Liebmann,Tom;Heyer,Gerhard;Kuras,Christoph;Scheuermann,Gerik",
+		"conference": "Digital Humanities 2015",
+		"year": 2015
+	},
+	{
+		"title": "Visualizing Text Alignments: Image Processing Techniques for Locating 18th-Century Commonplaces",
+		"keywords": [
+			"sequence alignment",
+			"text reuse",
+			"visual analytics"
+		],
+		"authors": "Roe,Glenn;Abdul-Rahman,Alfie;Chen,Min;Gladstone,Clovis;Morrissey,Robert;Olsen,Mark",
+		"conference": "Digital Humanities 2015",
+		"year": 2015
+	},
+	{
+		"title": "TILT 2: Text to Image Linking Tool",
+		"keywords": [
+			"ocr",
+			"text-to-image linking"
+		],
+		"authors": "Schmidt,Desmond",
+		"conference": "Digital Humanities 2015",
+		"year": 2015
+	},
+	{
+		"title": "Mapping the Emotions of London in Fiction, 1700-1900: A Crowdsourcing Experiment",
+		"keywords": [
+			"geography",
+			"affect",
+			"london",
+			"fiction",
+			"space"
+		],
+		"authors": "Heuser,Ryan;Algee-Hewitt,Mark;Tran,Van;Lockhart,Annalise;Steiner,Erik",
+		"conference": "Digital Humanities 2015",
+		"year": 2015
+	},
+	{
+		"title": "Modelling Concepts to Improve the Search Capabilities on Ancient Corpora",
+		"keywords": [
+			"concept editor",
+			"concept search",
+			"concept modeling"
+		],
+		"authors": "Cheema,Muhammad Faisal;Blumenstein,Judith;Scheuermann,Gerik",
+		"conference": "Digital Humanities 2015",
+		"year": 2015
+	},
+	{
+		"title": "Anatomy of a Drop-Off Reading Curve",
+		"keywords": [
+			"simulation humaine",
+			"daniel de roulet",
+			"j48",
+			"reading",
+			"analytics"
+		],
+		"authors": "Bornet,Cyril;Kaplan,Frédéric",
+		"conference": "Digital Humanities 2015",
+		"year": 2015
+	},
+	{
+		"title": "Digital Corpus and Toolset for Performing Text Analysis on Chinese Translation of Buddhist Scriptures",
+		"keywords": [
+			"translatorship attribution",
+			"text analysis",
+			"chinese buddhist translations",
+			"n-gram corpus",
+			"visualization tool"
+		],
+		"authors": "Hung,Jen-Jou",
+		"conference": "Digital Humanities 2015",
+		"year": 2015
+	},
+	{
+		"title": "Interactive Visual Analysis Of German Poetics",
+		"keywords": [
+			"visual analytics",
+			"document analysis",
+			"literary analysis",
+			"distant reading"
+		],
+		"authors": "John,Markus;Koch,Steffen;Heimerl,Florian;Müller,Andreas;Ertl,Thomas;Kuhn,Jonas",
+		"conference": "Digital Humanities 2015",
+		"year": 2015
+	},
+	{
+		"title": "Accidental Discovery, Intentional Inquiry: Leveraging Linked Data to Uncover the Women of Jazz",
+		"keywords": [
+			"linked open data",
+			"digital archives",
+			"gender studies",
+			"jazz history",
+			"knowledge representation"
+		],
+		"authors": "Pattuelli,M. Cristina;Miller,Matthew;Hwang,Karen",
+		"conference": "Digital Humanities 2015",
+		"year": 2015
+	},
+	{
+		"title": "Research Through Design and Digital Humanities in Practice: What, How and Who in an Archive Research Project.",
+		"keywords": [
+			"design",
+			"methodology",
+			"practice-based",
+			"artifacts"
+		],
+		"authors": "Schofield,Tom William;Kirk,David;Whitelaw,Mitchell",
+		"conference": "Digital Humanities 2015",
+		"year": 2015
+	},
+	{
+		"title": "Visual First Amendment: A Case Study in Empricial Legal Studies, Visualization, and User Experience",
+		"keywords": [
+			"visualization",
+			"statistics",
+			"law",
+			"networks",
+			"usability"
+		],
+		"authors": "Sula,Chris Alen;Rabina,Debbie",
+		"conference": "Digital Humanities 2015",
+		"year": 2015
+	},
+	{
+		"title": "AXES: Researching & Accessing Videos Through Multimodal Analyses",
+		"keywords": [
+			"video",
+			"multimodal",
+			"visual search",
+			"audiovisual sources"
+		],
+		"authors": "Kleppe,Martijn;Kemman,Max;Van der Kreeft,Peggy;Macquarrie,Kay;McGuinness,Kevin",
+		"conference": "Digital Humanities 2015",
+		"year": 2015
+	},
+	{
+		"title": "A Distant Reading Visualization for Variant Graphs",
+		"keywords": [
+			"variant graph",
+			"distant reading",
+			"bible visualization"
+		],
+		"authors": "Jänicke,Stefan;Geßner,Annette",
+		"conference": "Digital Humanities 2015",
+		"year": 2015
+	},
+	{
+		"title": "Textal: Unstructured Text Analysis Workflows Through Interactive Smartphone Visualisations",
+		"keywords": [
+			"text analysis",
+			"mobile",
+			"visualization",
+			"word cloud",
+			"interaction"
+		],
+		"authors": "Gray,Steven James;Terras,Melissa;Ammann,Rudolf;Hudson-Smith,Andrew",
+		"conference": "Digital Humanities 2015",
+		"year": 2015
+	},
+	{
+		"title": "_CATview_ - Supporting The Investigation Of Text Genesis Of Large Manuscripts By An Overall Interactive Visualization Tool",
+		"keywords": [
+			"visualization",
+			"alignment",
+			"collation",
+			"text genesis",
+			"text evolution"
+		],
+		"authors": "Pöckelmann,Marcus;Medek,André;Molitor,Paul;Ritter,Jörg",
+		"conference": "Digital Humanities 2015",
+		"year": 2015
+	},
+	{
+		"title": "Digital Network Analysis of Dramatic Texts",
+		"keywords": [
+			"network analysis",
+			"dramatic texts",
+			"literary history"
+		],
+		"authors": "Trilcke,Peer;Fischer,Frank;Kampkaspar,Dario",
+		"conference": "Digital Humanities 2015",
+		"year": 2015
+	},
+	{
+		"title": "Palimpsest: Improving Assisted Curation of Loco-specific Literature",
+		"keywords": [
+			"assisted curation",
+			"document retrieval",
+			"annotation",
+			"user feedback",
+			"geographical parsing"
+		],
+		"authors": "Alex,Beatrice;Grover,Claire;Zhou,Ke;Hinrichs,Uta",
+		"conference": "Digital Humanities 2015",
+		"year": 2015
+	},
+	{
+		"title": "Mapping Notes And Nodes: Building A Multi-Layered Network For A History Of The Cultural Industry",
+		"keywords": [
+			"historical networks research",
+			"data integration",
+			"visualization",
+			"creative industry"
+		],
+		"authors": "Heuvel,Charles van den;van Bree,Pim;Kessels,Geert;Álvarez Francés,Leonor",
+		"conference": "Digital Humanities 2015",
+		"year": 2015
+	},
+	{
+		"title": "Digital Dunhuang: Enhancing Virtual Explorations of the Real Dunhuang",
+		"keywords": [
+			"dunhuang",
+			"silk road",
+			"digitization"
+		],
+		"authors": "Wang,Xundong;Zhou,Peter;Wang,Eugene;Downie,J. Stephen",
+		"conference": "Digital Humanities 2015",
+		"year": 2015
+	},
+	{
+		"title": "From Text and Image to Historical Resource: Text-Image Alignment for Digital Humanists",
+		"keywords": [
+			"digital palaeography",
+			"tei",
+			"text-image alignment",
+			"interactivity",
+			"interdisciplinarity"
+		],
+		"authors": "Stutzmann,Dominique;Bluche,Théodore;Lavrentev,Alexei;Leydier,Yann;Kermorvant,Christopher",
+		"conference": "Digital Humanities 2015",
+		"year": 2015
+	},
+	{
+		"title": "The DH Experience",
+		"keywords": [
+			"game theory",
+			"interdisciplinarity",
+			"global dh",
+			"collaboration"
+		],
+		"authors": "Palmer,Zachary Selman;Rockwell,Geoffrey;Ruecker,Stan;Montague,John;Frizzera,Luciano;Gil,Alex;O'Donnell,Daniel",
+		"conference": "Digital Humanities 2015",
+		"year": 2015
+	},
+	{
+		"title": "Old Traces, New Links: Representation of Taiwan Baotu in OpenStreetMap",
+		"keywords": [
+			"digital reproduction",
+			"digital representation",
+			"interactive historical map",
+			"digital archive",
+			"openstreetmap"
+		],
+		"authors": "Huang,Jheng-Peng;Liu,Hao-Syong;Liao,Hsiung-Ming;Chuang,Tyng-Ruey",
+		"conference": "Digital Humanities 2015",
+		"year": 2015
+	},
+	{
+		"title": "Building Better Linked Data & Ontology Visualization Tools",
+		"keywords": [
+			"visualization",
+			"linked data",
+			"semantic web",
+			"ontologies",
+			"tools"
+		],
+		"authors": "Simpson,John;Brown,Susan;Smith Elford,Jana;Murphy,Shawn;Brundin,Michael;Warren,Robert",
+		"conference": "Digital Humanities 2015",
+		"year": 2015
+	},
+	{
+		"title": "Exploring Large Datasets with Topic Model Visualizations",
+		"keywords": [
+			"topic models",
+			"graphs",
+			"big data",
+			"visualization"
+		],
+		"authors": "Montague,John;Simpson,John;Rockwell,Geoffrey;Ruecker,Stan;Brown,Susan",
+		"conference": "Digital Humanities 2015",
+		"year": 2015
+	},
+	{
+		"title": "On the Use of Visualization for the Digital Humanities",
+		"keywords": [
+			"visualization",
+			"interaction",
+			"survey"
+		],
+		"authors": "Verbert,Katrien",
+		"conference": "Digital Humanities 2015",
+		"year": 2015
+	},
+	{
+		"title": "Knowledge Networks, Juxtaposed: Disciplinarity in the Encyclopédie and Wikipedia",
+		"keywords": [
+			"encyclopedia",
+			"knowledge",
+			"network",
+			"enlightenment",
+			"disciplinarity"
+		],
+		"authors": "Heuser,Ryan;Algee-Hewitt,Mark;Bender,John",
+		"conference": "Digital Humanities 2015",
+		"year": 2015
+	},
+	{
+		"title": "Segetes: a Digital Initiative in Discovering and Simplifying Access to Open Source Metadata for Vergil’s Works",
+		"keywords": [
+			"text analytics",
+			"information engineering",
+			"augustan-era latin poetry",
+			"open source",
+			"restful web services"
+		],
+		"authors": "Hollis,Luke Robert",
+		"conference": "Digital Humanities 2015",
+		"year": 2015
+	},
+	{
+		"title": "Animation of Chinese Characters: the Evolution of the Shapes and Styles",
+		"keywords": [
+			"animation",
+			"shape evolution",
+			"style evolution",
+			"chinese characters"
+		],
+		"authors": "Wang,Ning;Hu,Jiajia",
+		"conference": "Digital Humanities 2015",
+		"year": 2015
+	},
+	{
+		"title": "Proposal for Creation of \"Research Profile\" of Photo Archives Using Digital Book Format",
+		"keywords": [
+			"historical photograph",
+			"archive",
+			"digital book",
+			"epub"
+		],
+		"authors": "Togiya,Norio",
+		"conference": "Digital Humanities 2015",
+		"year": 2015
+	},
+	{
+		"title": "Exploration of Billions of Words of the HathiTrust Corpus with Bookworm: HathiTrust + Bookworm Project",
+		"keywords": [
+			"text analysis",
+			"visualization",
+			"htrc"
+		],
+		"authors": "Auvil,Loretta;Aiden,Erez Lieberman;Downie,J. Stephen;Schmidt,Benjamin;Bhattacharyya,Sayan;Organisciak,Piotr",
+		"conference": "Digital Humanities 2015",
+		"year": 2015
+	},
+	{
+		"title": "Remembering books: A within-book topic mapping technique",
+		"keywords": [
+			"text analysis",
+			"topic modeling",
+			"visualization"
+		],
+		"authors": "Organisciak,Peter;Auvil,Loretta;Downie,J.Stephen",
+		"conference": "Digital Humanities 2015",
+		"year": 2015
+	},
+	{
+		"title": "DIVADIAWI - A Web-based Interface for Semi-automatic Labeling of Historical Document Images",
+		"keywords": [
+			"historical document images",
+			"web interface",
+			"semi-automatic labeling"
+		],
+		"authors": "Wei,Hao;Chen,Kai;Seuret,Mathias;Würsch,Marcel;Liwicki,Marcus;Ingold,Rolf",
+		"conference": "Digital Humanities 2015",
+		"year": 2015
+	},
+	{
+		"title": "Digital Humanities educational vehicle - new patterns of research and learning approach in the Digital Age of Access",
+		"keywords": [
+			"interdisciplinary collaboration",
+			"participatory learning",
+			"virtual environment",
+			"ancient history",
+			"intercultural skills"
+		],
+		"authors": "Duridanov,Ludmil;Curry,Joanne;Ivanov,Stanislav;Simoff,Simeon;Zareva,Desislava",
+		"conference": "Digital Humanities 2015",
+		"year": 2015
+	},
+	{
+		"title": "The American Century Project: Bringing into Critical Parity Primary Source Materials, Their Visualization, and Their Composite Analysis",
+		"keywords": [
+			"american culture",
+			"american history",
+			"hollywood",
+			"american television",
+			"broadway theater",
+			"cold war"
+		],
+		"authors": "Alexander,Ben;Brown,David;Mescal,Alexandra",
+		"conference": "Digital Humanities 2015",
+		"year": 2015
+	},
+	{
+		"title": "The Aboriginal Dreaming meets Virtual Reality",
+		"keywords": [
+			"aboriginal",
+			"indigenous",
+			"3d",
+			"simulation",
+			"virtual reality"
+		],
+		"authors": "Trescak,Tomas;Williams,Melissa;Sloan,Terry;Bogdanovych,Anton;Simoff,Simeon",
+		"conference": "Digital Humanities 2015",
+		"year": 2015
+	},
+	{
+		"title": "Susurrant: A Tool for Algorithmic Listening in Networked Soundscapes",
+		"keywords": [
+			"networks",
+			"sonification",
+			"visualization",
+			"machine learning",
+			"topic modeling"
+		],
+		"authors": "Johnson-Roberson,Chris A",
+		"conference": "Digital Humanities 2015",
+		"year": 2015
+	},
+	{
+		"title": "Visualizing the Digital Mitford Project’s Prosopography Data",
+		"keywords": [
+			"tei",
+			"digital archive",
+			"prosopography",
+			"network analysis",
+			"textual scholarship"
+		],
+		"authors": "Beshero-Bondar,Elisa",
+		"conference": "Digital Humanities 2015",
+		"year": 2015
+	},
+	{
+		"title": "Introduction To The TXM Content Analysis Software",
+		"keywords": [
+			"text analysis",
+			"txm software",
+			"xml",
+			"tei",
+			"natural language processing"
+		],
+		"authors": "Heiden,Serge",
+		"conference": "Digital Humanities 2015",
+		"year": 2015
+	},
+	{
+		"title": "Social Media Data: Twitter Scraping on NeCTAR",
+		"keywords": [
+			"big data",
+			"social media network analysis",
+			"cloud compute",
+			"twitter",
+			"online communities"
+		],
+		"authors": "Hutchinson,Jonathon;Hammond,Jeremy;Martin,Fiona;Yazbek,Daniel",
+		"conference": "Digital Humanities 2015",
+		"year": 2015
+	},
+	{
+		"title": "Visualizing Japanese Language Change During the Past Century",
+		"keywords": [
+			"diachronic corpus",
+			"japanese language change",
+			"genre",
+			"register",
+			"co-occurrence networks"
+		],
+		"authors": "Hodošček,Bor",
+		"conference": "Digital Humanities 2015",
+		"year": 2015
+	},
+	{
+		"title": "Visualizing Data for Digital humanities Producing Semantic Maps with Information extracted from Corpora and other Media",
+		"keywords": [
+			"text mining",
+			"visualization"
+		],
+		"authors": "Poibeau,Thierry;Terras,Melissa;Ruiz,Pablo;Gray,Steven;Roe,Glenn",
+		"conference": "Digital Humanities 2015",
+		"year": 2015
+	},
+	{
+		"title": "Using Multiple Strategies To Find Connections In Digital Archives: Making Sense of Historical Data",
+		"keywords": [
+			"archives",
+			"sensemaking",
+			"connections",
+			"interdisciplinary",
+			"visualization"
+		],
+		"authors": "Lester,Connie Lee",
+		"conference": "Digital Humanities 2015",
+		"year": 2015
+	},
+	{
+		"title": "The Ontological Designing of the Digital",
+		"keywords": [
+			"ontological design",
+			"dh",
+			"image ecologies",
+			"visualization"
+		],
+		"authors": "Mellick Lopes,Abby Arwen",
+		"conference": "Digital Humanities 2015",
+		"year": 2015
+	},
+	{
+		"title": "Seeing Is Revealing: A Critical Discussion on Visualisation And The Digital Humanities",
+		"keywords": [
+			"visualization"
+		],
+		"authors": "Champion,Erik Malcolm",
+		"conference": "Digital Humanities 2015",
+		"year": 2015
+	},
+	{
+		"title": "Digital New Testament",
+		"keywords": [
+			"new testament",
+			"phylogenetic analysis",
+			"critical editions",
+			"collation algorithms",
+			"simulation"
+		],
+		"authors": "Finney,Tim;Clivaz,Claire;Schmidt,Desmond;Carlson,Stephen",
+		"conference": "Digital Humanities 2015",
+		"year": 2015
+	},
+	{
+		"title": "World-View from Poetic Structure: An “Anti-Social” Network Analysis of Robert Southey’s and Eramus Darwin’s Epic Poems",
+		"keywords": [
+			"network analysis",
+			"epic",
+			"paratext",
+			"place network",
+			"tei",
+			"structural markup"
+		],
+		"authors": "Beshero-Bondar,Elisa",
+		"conference": "Digital Humanities 2015",
+		"year": 2015
+	},
+	{
+		"title": "Data Revisualization as Critical Humanities Practice: Reinterpreting 19th Century Data with Modern Tools",
+		"keywords": [
+			"data visualization",
+			"united states history",
+			"humanities data analysis"
+		],
+		"authors": "Schmidt,Benjamin",
+		"conference": "Digital Humanities 2015",
+		"year": 2015
+	},
+	{
+		"title": "From Crowdsourcing to Knowledge Communities: Creating Meaningful Scholarship Through Digital Collaboration",
+		"keywords": [
+			"historypin",
+			"history",
+			"mapping",
+			"community",
+			"crowdsourcing"
+		],
+		"authors": "Voss,Jon;Wolfenstein,Gabriel;Frank,Zephyr;Heuser,Ryan;Young,Kerri;Stanhope,Nick",
+		"conference": "Digital Humanities 2015",
+		"year": 2015
+	},
+	{
+		"title": "From Mapping the Republic of Letters to Humanities +Design Research Lab: Creating Visualization Tools for Humanistic Inquiry",
+		"keywords": [
+			"knowledge design",
+			"interface design",
+			"open design",
+			"visualization"
+		],
+		"authors": "Coleman,Catherine Nicole;Caviglia,Giorgio;Comsa,Maria;Braude,Mark;Edelstein,Dan;Ceserani,Giovanna",
+		"conference": "Digital Humanities 2015",
+		"year": 2015
+	},
+	{
+		"title": "Geo-Language Games: An Agent-Based Model of the Role of Terrain in Language Diversity",
+		"keywords": [
+			"language change",
+			"agent based modeling",
+			"simulation",
+			"linguistic diversity",
+			"mapping"
+		],
+		"authors": "Hendery,Rachel Marion;Magee,Liam",
+		"conference": "Digital Humanities 2015",
+		"year": 2015
+	},
+	{
+		"title": "The Transported Imagination: Magazines, Travel And The Pacific 1920s-30s",
+		"keywords": [
+			"australian magazines",
+			"pacific",
+			"travel",
+			"spatial analysis",
+			"network visualization"
+		],
+		"authors": "Kuttainen,Victoria;Liebich,Susann;Galletly,Sarah",
+		"conference": "Digital Humanities 2015",
+		"year": 2015
+	},
+	{
+		"title": "The History and Provenance of Cultural Heritage Collections: New Approaches to Analysis and Visualization",
+		"keywords": [
+			"cultural heritage",
+			"provenance",
+			"manuscripts",
+			"graph databases"
+		],
+		"authors": "Burrows,Toby Nicolas",
+		"conference": "Digital Humanities 2015",
+		"year": 2015
+	},
+	{
+		"title": "Seeing the Argument: Visualize Your Database with DAVILA",
+		"keywords": [
+			"collaboration",
+			"databases",
+			"visualization",
+			"interactivity"
+		],
+		"authors": "Bauer,Jean Ann",
+		"conference": "Digital Humanities 2016",
+		"year": 2016
+	},
+	{
+		"title": "Complex Networks-Based Approach to Russian Rhyme History Description: Linguostatistics and Database",
+		"keywords": [
+			"metrics",
+			"graph",
+			"database",
+			"russian poetry",
+			"rhyme"
+		],
+		"authors": "Sozinova,Olga",
+		"conference": "Digital Humanities 2016",
+		"year": 2016
+	},
+	{
+		"title": "Mapping the Bentham Corpus",
+		"keywords": [
+			"betham",
+			"corpus visualization",
+			"knowledge discovery"
+		],
+		"authors": "Tieberghien,Estelle;Ruiz Fabo,Pablo;Mélanie-Bécquet,Frédérique;Poibeau,Thierry;Causer,Tim;Terras,Melissa",
+		"conference": "Digital Humanities 2016",
+		"year": 2016
+	},
+	{
+		"title": "Photogrammar",
+		"keywords": [
+			"mapping",
+			"photographs",
+			"archives",
+			"visualization",
+			"visual culture"
+		],
+		"authors": "Tilton,Lauren;Arnold,Taylor;Leonard,Peter",
+		"conference": "Digital Humanities 2016",
+		"year": 2016
+	},
+	{
+		"title": "Reflectance Transformation Imaging (RTI) for Cultural Heritage Artefacts",
+		"keywords": [
+			"reflectance transformation imaging",
+			"artifacts",
+			"digitization",
+			"surface enhancement",
+			"interpretation"
+		],
+		"authors": "Papadopoulos,Konstantinos",
+		"conference": "Digital Humanities 2016",
+		"year": 2016
+	},
+	{
+		"title": "Enhancing Close Reading",
+		"keywords": [
+			"close reading",
+			"distant reading",
+			"annotations"
+		],
+		"authors": "Cheema,Muhammad Faisal;Jänicke,Stefan;Scheuermann,Gerik",
+		"conference": "Digital Humanities 2016",
+		"year": 2016
+	},
+	{
+		"title": "Khepri - a Modular View-Based Tool for Exploring (Historical Sociolinguistic) Data",
+		"keywords": [
+			"tools",
+			"data exploration",
+			"user-centered design",
+			"historical sociolinguistics"
+		],
+		"authors": "Mäkelä,Eetu;Säily,Tanja;Nevalainen,Terttu",
+		"conference": "Digital Humanities 2016",
+		"year": 2016
+	},
+	{
+		"title": "Seeing Andalucia's Late Gothic heritage through GIS and Graphs",
+		"keywords": [
+			"heritage knowledge",
+			"heritage management",
+			"gis",
+			"graphs",
+			"late gothic heritage"
+		],
+		"authors": "Ferreira Lopes,Patricia;Pinto Puerto,Francisco;Jimenez Mavillard,Antonio;Suarez,Juan Luis",
+		"conference": "Digital Humanities 2016",
+		"year": 2016
+	},
+	{
+		"title": "Beyond Shot Lengths – Using Language Data and Color Information as Additional Parameters for Quantitative Movie Analysis",
+		"keywords": [
+			"quantitative movie analysis"
+		],
+		"authors": "Burghardt,Manuel;Kao,Michael;Wolff,Christian",
+		"conference": "Digital Humanities 2016",
+		"year": 2016
+	},
+	{
+		"title": "Visual Patterns Discovery in Large Databases of Paintings",
+		"keywords": [
+			"art history",
+			"search engine",
+			"patterns",
+			"deep learning",
+			"convolutional neural networks"
+		],
+		"authors": "di Lenardo,Isabella;Seguin,Benoit;Kaplan,Frédéric",
+		"conference": "Digital Humanities 2016",
+		"year": 2016
+	},
+	{
+		"title": "The Computer Graphic Simulation of the Battle at Mount Street Bridge. Problems, Perspectives, and Challenges",
+		"keywords": [
+			"computer graphic simulation",
+			"historical research",
+			"unity",
+			"annotations",
+			"knowledge production"
+		],
+		"authors": "Schreibman,Susan;Buckley,John;Hughes,Brian;Papadopoulos,Constantinos",
+		"conference": "Digital Humanities 2016",
+		"year": 2016
+	},
+	{
+		"title": "Extraction and Visualization of Toponyms in Diachronic Text Corpora",
+		"keywords": [
+			"toponym resolution",
+			"visualization",
+			"digital literary studies",
+			"german literary history",
+			"methodology"
+		],
+		"authors": "Barbaresi,Adrien;Biber,Hanno",
+		"conference": "Digital Humanities 2016",
+		"year": 2016
+	},
+	{
+		"title": "Researchers to your Driving Seats: Building a Graphical User Interface for Multilingual Topic-Modelling in R with Shiny",
+		"keywords": [
+			"topic modeling",
+			"finding aids",
+			"glam metadata organization",
+			"multilinguality",
+			"morphosyntactic normalization"
+		],
+		"authors": "Koentges,Thomas",
+		"conference": "Digital Humanities 2016",
+		"year": 2016
+	},
+	{
+		"title": "On the Distant Reading of Musicians' Biographies",
+		"keywords": [
+			"interactive visual exploration",
+			"musicians biographies",
+			"bayerisches musiker lexikon",
+			"online"
+		],
+		"authors": "Khulusi,Richard;Jänicke,Stefan",
+		"conference": "Digital Humanities 2016",
+		"year": 2016
+	},
+	{
+		"title": "Printing in a Periphery: a Quantitative Study of Finnish Knowledge Production, 1640-1828",
+		"keywords": [
+			"metadata",
+			"fennica",
+			"kungliga",
+			"knowledge production",
+			"library"
+		],
+		"authors": "Tolonen,Mikko;Ilomäki,Niko;Roivainen,Hege;Lahti,Leo",
+		"conference": "Digital Humanities 2016",
+		"year": 2016
+	},
+	{
+		"title": "1 Million Dutch Newspaper Images available for researchers: The KBK-1M Dataset",
+		"keywords": [
+			"photographs",
+			"newspapers",
+			"open data",
+			"visual big data"
+		],
+		"authors": "Kleppe,Martijn;Desmond,Elliott",
+		"conference": "Digital Humanities 2016",
+		"year": 2016
+	},
+	{
+		"title": "A Study of Knowledge Integration in Digital Humanities Based on Bibliographic Analysis",
+		"keywords": [
+			"network analysis",
+			"cohesion",
+			"dh",
+			"bibliographic analysis"
+		],
+		"authors": "Tang,Muh-Chyun;Cheng,Yun Jen;Chen,Kuang Hua;Hsiang,Jieh",
+		"conference": "Digital Humanities 2016",
+		"year": 2016
+	},
+	{
+		"title": "Comparing Architectural Floor Plans: New Strategies",
+		"keywords": [
+			"architectural floor plans",
+			"pattern recognition",
+			"visualization",
+			"floor plan analysis",
+			"digital architectural methods"
+		],
+		"authors": "Alkhoven,Patricia;Stenvert,Ronald;Elpers,Sophie",
+		"conference": "Digital Humanities 2016",
+		"year": 2016
+	},
+	{
+		"title": "Visualisation Strategies for Comparing Political Ideas with the ORATIO Platform",
+		"keywords": [
+			"communication design",
+			"data visualization",
+			"comparison of viewpoints",
+			"political studies"
+		],
+		"authors": "Elli,Tommaso;Moretti,Giovanni;Sprugnoli,Rachele;Mauri,Michele;Uboldi,Giorgio;Tonelli,Sara;Ciuccarelli,Paolo",
+		"conference": "Digital Humanities 2016",
+		"year": 2016
+	},
+	{
+		"title": "Publishing Second World War History as Linked Data Events on the Semantic Web",
+		"keywords": [
+			"semantic web",
+			"war history",
+			"linked data",
+			"data service",
+			"semantic portal"
+		],
+		"authors": "Hyvönen,Eero;Heino,Erkki;Leskinen,Petri;Ikkala,Esko;Koho,Mikko;Tamper,Minna;Tuominen,Jouni;Mäkelä,Eetu",
+		"conference": "Digital Humanities 2016",
+		"year": 2016
+	},
+	{
+		"title": "An Iterative 3DGIS Analysis of the Role of Visibility in Ancient Landscapes",
+		"keywords": [
+			"gis",
+			"mesoamerica",
+			"3d visualization",
+			"visibility analysis",
+			"landscape archeology"
+		],
+		"authors": "Richards-Rissetto,Heather",
+		"conference": "Digital Humanities 2016",
+		"year": 2016
+	},
+	{
+		"title": "Mapping Languages Performance by Performance",
+		"keywords": [
+			"language maps",
+			"language diversity",
+			"multilingualism",
+			"communities of practice"
+		],
+		"authors": "Ritchie,Sandy;Goodchild,Samantha;Grzech,Karolina",
+		"conference": "Digital Humanities 2016",
+		"year": 2016
+	},
+	{
+		"title": "REDEN ONLINE: Disambiguation, Linking and Visualisation of References in TEI Digital Editions",
+		"keywords": [
+			"entity linking",
+			"visualization",
+			"literary criticism",
+			"tei"
+		],
+		"authors": "Frontini,Francesca;Brando,Carmen;Ganascia,Jean-Gabriel",
+		"conference": "Digital Humanities 2016",
+		"year": 2016
+	},
+	{
+		"title": "Visual Network Analysis with Gephi Workshop",
+		"keywords": [
+			"network",
+			"data visualization",
+			"exploratory data analysis",
+			"gephi",
+			"interpretation"
+		],
+		"authors": "Jacomy,Mathieu;Grandjean,Martin;Girard,Paul",
+		"conference": "Digital Humanities 2016",
+		"year": 2016
+	},
+	{
+		"title": "Contextualizing Historical Places in a Gazetteer by Using Historical Maps and Linked Data",
+		"keywords": [
+			"ontology service",
+			"gazetteer",
+			"historical places",
+			"historical maps",
+			"crowdsourcing"
+		],
+		"authors": "Ikkala,Esko;Tuominen,Jouni;Hyvönen,Eero",
+		"conference": "Digital Humanities 2016",
+		"year": 2016
+	},
+	{
+		"title": "Archives Distant Reading: Mapping the Activity of the League of Nations’ Intellectual Cooperation",
+		"keywords": [
+			"intellectual history",
+			"data visualization",
+			"social network analysis",
+			"archives",
+			"distant reading"
+		],
+		"authors": "Grandjean,Martin",
+		"conference": "Digital Humanities 2016",
+		"year": 2016
+	},
+	{
+		"title": "Browsing, Sharing, Learning and Reviewing the Haine du théâtre Corpus through Insightful Island",
+		"keywords": [
+			"information visualization",
+			"visualization system",
+			"text visualization",
+			"document visualization",
+			"memory island",
+			"haine du théâtre"
+		],
+		"authors": "Yang,Bin;Mainardi,Chiara;Ganascia,Jean-Gabriel",
+		"conference": "Digital Humanities 2016",
+		"year": 2016
+	},
+	{
+		"title": "Repairing William Playfair: Digital Fabrication, Design Theory, and the Long History of Data Visualization",
+		"keywords": [
+			"data visualization",
+			"media history",
+			"design theory",
+			"historical fabrication",
+			"repair"
+		],
+		"authors": "Foster,Caroline Rebecca;Pramer,Erica;Klein,Lauren",
+		"conference": "Digital Humanities 2016",
+		"year": 2016
+	},
+	{
+		"title": "Modeling as Discourse: The case for 3D",
+		"keywords": [
+			"3d modeling",
+			"interactive media",
+			"virtual reality",
+			"simulation",
+			"archeology"
+		],
+		"authors": "Saldaña,Marie Giltner",
+		"conference": "Digital Humanities 2016",
+		"year": 2016
+	},
+	{
+		"title": "Developing Local Digital Humanities Communities: The Atlanta Studies Network",
+		"keywords": [
+			"collaboration",
+			"mapping",
+			"3d",
+			"public history",
+			"pedagogy"
+		],
+		"authors": "Collins,Brennan;Hurley,Joe;Melton,Sarah;Rorabaugh,Pete;Davis,Marni;Page,Michael;Dusseault,Ruth;Varner,Jay;Miller,Ben;Bryant,Robert;Glover,Jeff;Wharton,Robin",
+		"conference": "Digital Humanities 2016",
+		"year": 2016
+	},
+	{
+		"title": "Addressing Torture in Iraq through Critical Digital Media Art—Hearts and Minds: The Interrogations Project",
+		"keywords": [
+			"torture",
+			"critical digital media",
+			"virtual reality",
+			"iraq",
+			"interdisciplinary",
+			"media art"
+		],
+		"authors": "Rettberg,Scott;Coover,Roderick",
+		"conference": "Digital Humanities 2016",
+		"year": 2016
+	},
+	{
+		"title": "Building Large Persons’ Networks to Explore Digital Corpora",
+		"keywords": [
+			"persons network",
+			"network extraction",
+			"network visualization"
+		],
+		"authors": "Moretti,Giovanni;Tonelli,Sara;Menini,Stefano",
+		"conference": "Digital Humanities 2016",
+		"year": 2016
+	},
+	{
+		"title": "When Traditional Ontologies are not Enough: Modelling and Visualizing Dynamic Ontologies in Semantic-Based Access to Texts",
+		"keywords": [
+			"ontologies",
+			"information visualization",
+			"ontologies visualization",
+			"dynamic knowledge",
+			"literary computing"
+		],
+		"authors": "Piccini,Silvia;Abrate,Matteo;Bacciu,Clara;Bellandi,Andrea;Giovannetti,Emiliano;Mancini,Lorenzo;Marchetti,Andrea",
+		"conference": "Digital Humanities 2016",
+		"year": 2016
+	},
+	{
+		"title": "Compiling a Database on Historical China from Local Records: The Local Gazetteers Project at MPIWG",
+		"keywords": [
+			"tagging",
+			"visualization",
+			"geospatial analysis",
+			"data collection"
+		],
+		"authors": "Chen,Shih-Pei;Hong,Zoe;Schäfer,Dagmar;Siebert,Martina;Urzúa,Jorge",
+		"conference": "Digital Humanities 2016",
+		"year": 2016
+	},
+	{
+		"title": "Adding Flexibility to Large-Scale Text Visualization with HathiTrust+Bookworm",
+		"keywords": [
+			"text analysis",
+			"visualization",
+			"scholarly curation"
+		],
+		"authors": "Organisciak,Peter;Bhattacharyya,Sayan;Auvil,Loretta;Unnikrishnan,Leena;Schmidt,Benjamin;Shamim,Muhammad Saad;McDonald,Robert;Downie,J. Stephen;Aiden,Erez Lieberman",
+		"conference": "Digital Humanities 2016",
+		"year": 2016
+	},
+	{
+		"title": "Ancient Maya Writings as High-Dimensional Data: a Visualization Approach",
+		"keywords": [
+			"topic modeling",
+			"finding aids",
+			"glam metadata organization",
+			"multilinguality",
+			"morphosyntactic normalization"
+		],
+		"authors": "Can,Gulcan;Odobez,Jean-Marc;Pallan Gayol,Carlos;Gatica-Perez,Daniel",
+		"conference": "Digital Humanities 2016",
+		"year": 2016
+	},
+	{
+		"title": "CORE - A Contextual Reader based on Linked Data",
+		"keywords": [
+			"contextualization",
+			"linked data",
+			"close reading",
+			"glam data uses"
+		],
+		"authors": "Mäkelä,Eetu;Lindquist,Thea;Hyvönen,Eero",
+		"conference": "Digital Humanities 2016",
+		"year": 2016
+	},
+	{
+		"title": "Digital Palaeography: What is digital about it?",
+		"keywords": [
+			"digital palaeography",
+			"intermedia studies",
+			"modeling"
+		],
+		"authors": "Ciula,Arianna",
+		"conference": "Digital Humanities 2016",
+		"year": 2016
+	},
+	{
+		"title": "The Formation of Australia’s Economic History Community, 1950 – 1970: A Multidimensional Network Analysis",
+		"keywords": [
+			"intellectual history",
+			"economic history",
+			"network analysis",
+			"collaboration",
+			"colocation"
+		],
+		"authors": "Wright,Claire",
+		"conference": "Digital Humanities 2016",
+		"year": 2016
+	},
+	{
+		"title": "CTRaCE: Canonical Text Reader and Citation Exporter",
+		"keywords": [
+			"user interface",
+			"citation",
+			"visualization",
+			"close reading"
+		],
+		"authors": "Reckziegel,Martin;Jänicke,Stefan;Scheuermann,Gerik",
+		"conference": "Digital Humanities 2016",
+		"year": 2016
+	},
+	{
+		"title": "Linking Graph With Map For The Purpose Of Historical Research",
+		"keywords": [
+			"visualization",
+			"social network",
+			"historical research",
+			"linking visual data",
+			"nobility",
+			"moravia"
+		],
+		"authors": "Škvrňák,Jan;Mertel,Adam",
+		"conference": "Digital Humanities 2016",
+		"year": 2016
+	},
+	{
+		"title": "EVT 2.0: a new architecture for critical editions in digital form",
+		"keywords": [
+			"xml tei",
+			"web visualization",
+			"client side",
+			"digital edition",
+			"web edition"
+		],
+		"authors": "Di Pietro,Chiara;Alzetta,Chiara;Tiezzi,Ilaria;Masotti,Raffaele;Rosselli Del Turco,Roberto",
+		"conference": "Digital Humanities 2016",
+		"year": 2016
+	},
+	{
+		"title": "Visualizing Mouvance: Towards an Alignment of Medieval Vernacular Text Traditions",
+		"keywords": [
+			"text alignment",
+			"visualization",
+			"textual variance",
+			"medieval french"
+		],
+		"authors": "Jänicke,Stefan;Wrisley,David Joseph",
+		"conference": "Digital Humanities 2016",
+		"year": 2016
+	},
+	{
+		"title": "Wired!: Collaborative Teaching & Critical Digital Making In An Art History Classroom",
+		"keywords": [
+			"art history",
+			"collaborative teaching",
+			"digital pedagogy",
+			"spatiotemporal narratives",
+			"historic reconstruction"
+		],
+		"authors": "Jacobs,Hannah L.",
+		"conference": "Digital Humanities 2016",
+		"year": 2016
+	},
+	{
+		"title": "Prototypes as Thinking through Making. Decision Points and Evaluation in Prototyping a Visualisation Framework for Historical Documents",
+		"keywords": [
+			"prototype analysis",
+			"prototype evaluation",
+			"xml tei visualization tools",
+			"digital scholarly editions"
+		],
+		"authors": "Armaselu,Florentina;Rosselli Del Turco,Roberto;Jones,Catherine;Wieneke,Lars;Alzetta,Chiara;Di Pietro,Chiara",
+		"conference": "Digital Humanities 2016",
+		"year": 2016
+	},
+	{
+		"title": "Visualising the Dynamics of Character Networks",
+		"keywords": [
+			"character network",
+			"user interface",
+			"visualization",
+			"web application",
+			"temporality"
+		],
+		"authors": "Xanthos,Aris;Pante,Isaac;Rochat,Yannick;Grandjean,Martin",
+		"conference": "Digital Humanities 2016",
+		"year": 2016
+	},
+	{
+		"title": "New Maps for the Lettered City: a Data Visualization Exploration of 19th Century Salons in Mexico",
+		"keywords": [
+			"data visualization"
+		],
+		"authors": "Gutiérrez De la Torre,Silvia Eunice",
+		"conference": "Digital Humanities 2016",
+		"year": 2016
+	},
+	{
+		"title": "Collaborative Annotation and Exploration of Literary Works in Learning Contexts",
+		"keywords": [
+			"collaborative annotation",
+			"social network analysis",
+			"maps",
+			"literature",
+			"user experience"
+		],
+		"authors": "Bolioli,Andrea;Tasso,Riccardo",
+		"conference": "Digital Humanities 2016",
+		"year": 2016
+	},
+	{
+		"title": "\"Everything on Paper Will Be Used Against Me\": Quantifying Kissinger'",
+		"keywords": [
+			"diplomatic history",
+			"sentiment analysis",
+			"topic modeling",
+			"visualization",
+			"network analysis"
+		],
+		"authors": "Kaufman,Micki",
+		"conference": "Digital Humanities 2015",
+		"year": 2015
+	},
+	{
+		"title": "The Trajectories Tool: Amplifying Network Visualization Complexity",
+		"keywords": [
+			"intellectual history",
+			"economic history",
+			"network analysis",
+			"collaboration",
+			"colocation"
+		],
+		"authors": "Rigal,Alexandre;Rodighiero,Dario;Cellard,Loup",
+		"conference": "Digital Humanities 2016",
+		"year": 2016
+	},
+	{
+		"title": "RICardo Project : Exploring 19th Century International Trade",
+		"keywords": [
+			"interaction design",
+			"trade history",
+			"exploratory data analysis",
+			"data uncertainty",
+			"information design"
+		],
+		"authors": "Girard, Paul; Dedinger, Béatrice; Ricci, Donato; Ooghe-Tabanou, Benjamin; Jacomy, Mathieu; Plique, Guillaume; Tible, Grégory\n",
+		"conference": "Digital Humanities 2016",
+		"year": 2016
+	},
+	{
+		"title": "Development of a Support Tool for Categorizing Ukiyo-e’s Pictorial Themes: A System to Deal with Visual Features and Similarities",
+		"keywords": [
+			"data visualization",
+			"ukiyo-e",
+			"infographics",
+			"visual features",
+			"similarity"
+		],
+		"authors": "Saito,Shinya;Suzuki,Keiko",
+		"conference": "Digital Humanities 2016",
+		"year": 2016
+	},
+	{
+		"title": "Invisible Cities In Literature And History: Interfaces To Scalable Readings Of Textual And Visual Representations Of The Imaginary",
+		"keywords": [
+			"interface design",
+			"scholarly text edition",
+			"scholarly image edition",
+			"z-text model",
+			"scalable reading",
+			"digital hermeneutics"
+		],
+		"authors": "Heuvel,Charles van den;Armaselu,Florentina",
+		"conference": "Digital Humanities 2016",
+		"year": 2016
+	},
+	{
+		"title": "Integrative 3D Recording Methods of Historic Architecture: Burg Hohenecken from Southwest Germany",
+		"keywords": [
+			"medieval archeology",
+			"landscape archeology",
+			"laser scanning",
+			"photogrammetry",
+			"3d visualization"
+		],
+		"authors": "Pattee,Aaron Charles;Höfle,Bernhard;Seitz,Christian",
+		"conference": "Digital Humanities 2016",
+		"year": 2016
+	},
+	{
+		"title": "Introducing HistoGraph 2: Exploration of Cultural Heritage Documents Based on Co-Occurrence Graphs.",
+		"keywords": [
+			"crowdsourcing",
+			"cooccurrences",
+			"graph-based exploration",
+			"cultural heritage"
+		],
+		"authors": "Wieneke, Lars; Düring, Marten; Guido, Daniele",
+		"conference": "Digital Humanities 2016",
+		"year": 2016
+	},
+	{
+		"title": "Indigenous digital humanities. Participatory geo-referenced-mapping and visualization for digital data management platforms in digital anthropology",
+		"keywords": [
+			"indigenous dh",
+			"participative gis mapping",
+			"digital research data management"
+		],
+		"authors": "Froemming,Urte Undine",
+		"conference": "Digital Humanities 2016",
+		"year": 2016
+	},
+	{
+		"title": "Access, Ownership, Protection: The Ethics of Digital Scholarship",
+		"keywords": [
+			"data access",
+			"data protection",
+			"archival access",
+			"intellectual propoerty",
+			"copyright"
+		],
+		"authors": "Faull,Katherine Mary;Jakacki,Diane Katherine;O'Sullivan,James;Earhart,Amy;Kaufman,Micki",
+		"conference": "Digital Humanities 2016",
+		"year": 2016
+	},
+	{
+		"title": "A DH-Leavened Musicological Toolbox",
+		"keywords": [
+			"crowdsourcing",
+			"co-occurrences",
+			"graph-based exploration",
+			"cultural heritage"
+		],
+		"authors": "Giannetti,Francesca;Kijas,Anna",
+		"conference": "Digital Humanities 2016",
+		"year": 2016
+	},
+	{
+		"title": "Digital Resources and Research Data in the Digital Humanities: The Digital Knowledge Store at the Berlin-Brandenburg Academy of Sciences and Humanities",
+		"keywords": [
+			"knowledge browsing",
+			"semantic relations",
+			"full text indexing",
+			"digital knowledge store",
+			"academy of sciences"
+		],
+		"authors": "Jürgens,Marco;Grabsch,Sascha",
+		"conference": "Digital Humanities 2016",
+		"year": 2016
+	},
+	{
+		"title": "Creating A Management Plan For A Cultural Heritage Project - Best Practise",
+		"keywords": [
+			"interdisciplinary",
+			"crossinstitutional",
+			"webportal",
+			"guidelines",
+			"best practice"
+		],
+		"authors": "Koch,Carina",
+		"conference": "Digital Humanities 2016",
+		"year": 2016
+	},
+	{
+		"title": "Academic Pillow-Talk and Two Immersive Explorations of Linguistic Space",
+		"keywords": [
+			"virtual reality",
+			"linguistics",
+			"data visualization",
+			"archives",
+			"collaborative research"
+		],
+		"authors": "Hendery,Rachel Marion",
+		"conference": "Digital Humanities 2016",
+		"year": 2016
+	},
+	{
+		"title": "3D Scanning for Preservation: Difficulties and Dissemination",
+		"keywords": [
+			"surrogate",
+			"visualization",
+			"3d",
+			"cultural artifacts"
+		],
+		"authors": "Fereday,Graham;Mullins,Michael;Webb,Richard;Stringer,Gary",
+		"conference": "Digital Humanities 2016",
+		"year": 2016
+	},
+	{
+		"title": "Audiovisual Data And Digital Scholarship: Towards Multimodal Literacy",
+		"keywords": [
+			"audiovisual collections",
+			"television",
+			"audio",
+			"oral history",
+			"photographs",
+			"visual literacy"
+		],
+		"authors": "Kleppe,Martijn;Stef,Scagliola;Clara,Henderson;Johan,Oomen",
+		"conference": "Digital Humanities 2016",
+		"year": 2016
+	},
+	{
+		"title": "Digging the Aboveground: Visual Archeology of an Asylum",
+		"keywords": [
+			"visualization",
+			"simulation",
+			"architectural history",
+			"3d",
+			"temporal analysis"
+		],
+		"authors": "Ozludil Altin,Burcak;Wendell,Augustus",
+		"conference": "Digital Humanities 2016",
+		"year": 2016
+	},
+	{
+		"title": "Visualising Cultural Spheres – Virtual Tours and Epigraphical Data",
+		"keywords": [
+			"virtual cultural heritage",
+			"epigraphy",
+			"digital preservation"
+		],
+		"authors": "Neovesky,Anna;Grüntgens,Max",
+		"conference": "Digital Humanities 2016",
+		"year": 2016
+	},
+	{
+		"title": "Digitally Mapping Romantic Literature and Culture",
+		"keywords": [
+			"mapping",
+			"romanticism",
+			"gis",
+			"geospatial analysis",
+			"literary studies",
+			"mobility studies",
+			"history"
+		],
+		"authors": "Donaldson,Christopher;Sangster,Matthew;Taylor,Joanna",
+		"conference": "Digital Humanities 2016",
+		"year": 2016
+	},
+	{
+		"title": "Linguistic Variation In The Hebrew Bible: Digging Deeper Than The Word Level",
+		"keywords": [
+			"syntax",
+			"linguistic variation",
+			"biblical hebrew",
+			"data mining"
+		],
+		"authors": "Naaijer,Martijn;Roorda,Dirk",
+		"conference": "Digital Humanities 2016",
+		"year": 2016
+	},
+	{
+		"title": "Linguistic DNA: Modelling Concepts and Semantic Change in English, 1500-1800",
+		"keywords": [
+			"corpus linguistics",
+			"semantic analysis",
+			"early modern literature",
+			"conceptual history",
+			"visualization"
+		],
+		"authors": "Fitzmaurice,Susan;Alexander,Marc;Pidd,Michael;Robinson,Justyna;Dallachy,Fraser;Hine,Iona;Mehl,Seth;Aitken,Brian;Groves,Matthew;Rogers,Katherine",
+		"conference": "Digital Humanities 2016",
+		"year": 2016
+	},
+	{
+		"title": "Corpus Analyses of Multimodal Narrative: The Example of Graphic Novels",
+		"keywords": [
+			"graphic novel",
+			"eye tracking",
+			"corpus studies",
+			"annotation tools",
+			"image processing"
+		],
+		"authors": "Dunst,Alexander;Hartel,Rita;Hohenstein,Sven;Laubrock,Jochen",
+		"conference": "Digital Humanities 2016",
+		"year": 2016
+	},
+	{
+		"title": "Visual Forms of Information Presentation and Their Place in Formal Digital Scientific Communication",
+		"keywords": [
+			"visual forms of information presentation",
+			"formal scientific communication",
+			"digital scientific communication"
+		],
+		"authors": "Kamińska, Anna",
+		"conference": "Digital Humanities 2016",
+		"year": 2016
+	},
+	{
+		"title": "Mapping Imagined and Experienced Places: An Exploration of the Geography of Willa Cather’s Writing",
+		"keywords": [
+			"willa cather",
+			"mapping",
+			"gis",
+			"spatial turn"
+		],
+		"authors": "Rau,Emily J.;Kirilloff,Gabi",
+		"conference": "Digital Humanities 2016",
+		"year": 2016
+	},
+	{
+		"title": "A Place for Places: Current Trends and Challenges in the Development and Use of Geo-Historical Gazetteers",
+		"keywords": [
+			"graphic novel",
+			"eye tracking",
+			"corpus studies",
+			"annotation tools",
+			"image processing"
+		],
+		"authors": "Brando,Carmen;Frontini,Francesca",
+		"conference": "Digital Humanities 2016",
+		"year": 2016
+	},
+	{
+		"title": "Critical Edition as Graph: The Chronicle of Matthew of Edessa Online",
+		"keywords": [
+			"digital edition",
+			"graph database",
+			"armenian studies",
+			"data modeling"
+		],
+		"authors": "Safaryan,Anahit;Kaufmann,Sascha;Andrews,Tara Lee",
+		"conference": "Digital Humanities 2016",
+		"year": 2016
+	},
+	{
+		"title": "Visualizing the Gradual Production of a Text",
+		"keywords": [
+			"genetic edition",
+			"visualization",
+			"digital edition",
+			"stemmatology"
+		],
+		"authors": "Daengeli,Peter;Theisen,Christian;Wieland,Magnus;Zumsteg,Simon",
+		"conference": "Digital Humanities 2016",
+		"year": 2016
+	},
+	{
+		"title": "vWise: Visual Workspace for Information Seeking and Exploration",
+		"keywords": [
+			"visualization",
+			"virtual research environment"
+		],
+		"authors": "Audenaert,Michael Neal;Barry,Matthew;Bilnoski,Paul",
+		"conference": "Digital Humanities 2016",
+		"year": 2016
+	},
+	{
+		"title": "Untangling the Social Network of Musicians",
+		"keywords": [
+			"social network",
+			"interactive visual exploration",
+			"musicians biographies",
+			"bayerisches musiker lexikon online"
+		],
+		"authors": "Jänicke, Stefan; Focht, Josef",
+		"conference": "Digital Humanities 2017",
+		"year": 2017
+	},
+	{
+		"title": "Digital Hansard: Politics and the Uncivil",
+		"keywords": [
+			"history",
+			"politics",
+			"hansard",
+			"corpora",
+			"historical thesaurus"
+		],
+		"authors": "Alexander, Marc; Struan, Andrew",
+		"conference": "Digital Humanities 2017",
+		"year": 2017
+	},
+	{
+		"title": "Corpora and Complex Networks as Cultural Critique: Investigating Race and Gender Bias in Graphic Narratives",
+		"keywords": [
+			"comics",
+			"networks",
+			"cultural studies",
+			"gender"
+		],
+		"authors": "Dunst, Alexander; Hartel, Rita",
+		"conference": "Digital Humanities 2017",
+		"year": 2017
+	},
+	{
+		"title": "Regrowing Egyptian cults: The potential of using modern computational methods in the study of ancient religions",
+		"keywords": [
+			"history of religions",
+			"egyptian cults",
+			"geographical analysis",
+			"network analysis",
+			"statistical analysis"
+		],
+		"authors": "Mertel, Adam; Glomb, Tomáš; Stachoň, Zdeněk",
+		"conference": "Digital Humanities 2017",
+		"year": 2017
+	},
+	{
+		"title": "Network Dynamics, Plot Analysis: Approaching the Progressive Structuration of Literary Texts",
+		"keywords": [
+			"plot analysis",
+			"network analysis",
+			"dynamic networks",
+			"digital literary studies"
+		],
+		"authors": "Fischer, Frank; Göbel, Mathias; Kampkaspar, Dario; Kittel, Christopher",
+		"conference": "Digital Humanities 2017",
+		"year": 2017
+	},
+	{
+		"title": "Character Distributions of Classical Chinese Literary Texts: Zipf’s Law, Genres, and Epochs",
+		"keywords": [
+			"chinese poetry",
+			"chinese literature",
+			"literary chinese",
+			"zipf law"
+		],
+		"authors": "Liu, Chao-Lin; Zhang, Shuhua; Geng, Yuanli; Lai, Huei-ling; Wang, Hongsu",
+		"conference": "Digital Humanities 2017",
+		"year": 2017
+	},
+	{
+		"title": "The Intellectual Structure of Digital Humanities: An Author Co-Citation Analysis",
+		"keywords": [
+			"co-citation analysis",
+			"dh",
+			"intellectual structure",
+			"citation network"
+		],
+		"authors": "Gao, Jin; Duke-Williams, Oliver; Mahony, Simon",
+		"conference": "Digital Humanities 2017",
+		"year": 2017
+	},
+	{
+		"title": "s",
+		"keywords": [
+			"topic modeling",
+			"vector space",
+			"t-sne",
+			"vector reduction",
+			"semantic network analysis"
+		],
+		"authors": "Schreibman, Susan; Kerr, Sara",
+		"conference": "Digital Humanities 2017",
+		"year": 2017
+	},
+	{
+		"title": "In defense of sandcastles : research thinking through visualization in DH",
+		"keywords": [
+			"information visualization",
+			"research through design",
+			"interdisciplinary processes",
+			"tools",
+			"literary studies"
+		],
+		"authors": "Hinrichs, Uta; Forlini, Stefania",
+		"conference": "Digital Humanities 2017",
+		"year": 2017
+	},
+	{
+		"title": "An Automated Approach to Model the Transformation Process of the Reuse in Bernard de Clairvaux: How Do Lexical Resources Help?",
+		"keywords": [
+			"text reuse",
+			"lexical",
+			"word net",
+			"operation",
+			"transformation model"
+		],
+		"authors": "Moritz, Maria",
+		"conference": "Digital Humanities 2017",
+		"year": 2017
+	},
+	{
+		"title": "Layout analysis on newspaper archives",
+		"keywords": [
+			"layout evolution",
+			"layout transition",
+			"eigenpages",
+			"bitmap factorial analysis"
+		],
+		"authors": "Buntinx, Vincent; Kaplan, Frédéric; Xanthos, Aris",
+		"conference": "Digital Humanities 2017",
+		"year": 2017
+	},
+	{
+		"title": "Multimode and Multilevel: Vertical Dimension in Historical and Literary Networks",
+		"keywords": [
+			"twitter",
+			"media studies",
+			"digital studies"
+		],
+		"authors": "Grandjean, Martin",
+		"conference": "Digital Humanities 2017",
+		"year": 2017
+	},
+	{
+		"title": "Prototypical Emotion Developments in Literary Genres",
+		"keywords": [
+			"emotion analysis",
+			"literary genres",
+			"distant reading"
+		],
+		"authors": "Kim, Evgeny; Pado, Sebastian; Klinger, Roman",
+		"conference": "Digital Humanities 2017",
+		"year": 2017
+	},
+	{
+		"title": "Toponyms as Entry Points into a Digital Edition: Mapping Die Fackel",
+		"keywords": [
+			"geohumanities",
+			"spatial humanities",
+			"literary history",
+			"toponym extraction",
+			"gazetteers"
+		],
+		"authors": "Barbaresi, Adrien",
+		"conference": "Digital Humanities 2017",
+		"year": 2017
+	},
+	{
+		"title": "How to Close Read a Topic Model: TWiC Reads Emily Dickinson's Fascicles",
+		"keywords": [
+			"topic modeling",
+			"close reading",
+			"distant reading",
+			"bibliography",
+			"nineteenth century american"
+		],
+		"authors": "Armoza, Jonathan",
+		"conference": "Digital Humanities 2017",
+		"year": 2017
+	},
+	{
+		"title": "American Panorama: An Atlas of United States History",
+		"keywords": [
+			"open source",
+			"web mapping",
+			"gis",
+			"american history",
+			"geovisualization",
+			"cartography"
+		],
+		"authors": "Madron, Justin; Ayers, Nathaniel",
+		"conference": "Digital Humanities 2017",
+		"year": 2017
+	},
+	{
+		"title": "A cross-language comparison of co-word networks in Digital Library and Museum of Buddhist Studies",
+		"keywords": [
+			"buddhist studies",
+			"coword analysis",
+			"social network analysis"
+		],
+		"authors": "Tang, Muh-Chyun; Chen, Kuang-hua",
+		"conference": "Digital Humanities 2017",
+		"year": 2017
+	},
+	{
+		"title": "WeisoEvent: A Ming-Weiso Event Analytics Tool with Named Entity Markup and Spatial-Temporal Information Linking",
+		"keywords": [
+			"event analytics",
+			"ming weiso event",
+			"paragraph vector",
+			"spatiotemporal linking",
+			"named entity markup"
+		],
+		"authors": "Tsai, Richard Tzong-Han; Lai, Yu-Ting",
+		"conference": "Digital Humanities 2017",
+		"year": 2017
+	},
+	{
+		"title": "All the Things You Are: Accessing An Enriched Musicological Prosopography Through JazzCats",
+		"keywords": [
+			"digital musicology",
+			"ontologies",
+			"linked data",
+			"data reuse",
+			"jazz"
+		],
+		"authors": "Nurmikko-Fuller, Terhi; Bangert, Daniel; Abdul-Rahman, Alfie",
+		"conference": "Digital Humanities 2017",
+		"year": 2017
+	},
+	{
+		"title": "Interactive Visual Exploration of the Regesta Imperii",
+		"keywords": [
+			"digital humanites",
+			"interactive visualization"
+		],
+		"authors": "John, Markus; Richter, Christian; Koch, Steffen; Kuczera, Andreas; Ertl, Thomas",
+		"conference": "Digital Humanities 2017",
+		"year": 2017
+	},
+	{
+		"title": "What Changed When Andy Weir’s The Martian Got Edited?",
+		"keywords": [
+			"textual variants",
+			"editing",
+			"contemporary literature"
+		],
+		"authors": "Ketzan, Erik; Schöch, Christof",
+		"conference": "Digital Humanities 2017",
+		"year": 2017
+	},
+	{
+		"title": "Understanding Botnet- driven Blog Spam: Motivations and Methods",
+		"keywords": [
+			"spam",
+			"blog spam",
+			"botnets"
+		],
+		"authors": "Bevans, Brandon; DeBruhl, Bruce; Khosmood, Foaad",
+		"conference": "Digital Humanities 2017",
+		"year": 2017
+	},
+	{
+		"title": "Perseids and Plokamos: Weaving pedagogy, data models and tools for social network annotation",
+		"keywords": [
+			"pedagogy",
+			"mythology",
+			"social networks",
+			"annotation"
+		],
+		"authors": "Beaulieu, Marie-Claire; Baumgardt, Frederik; Almas, Bridget",
+		"conference": "Digital Humanities 2017",
+		"year": 2017
+	},
+	{
+		"title": "Personæ: A Character- Visualisation Tool for Dramatic Texts",
+		"keywords": [
+			"visualization",
+			"networks",
+			"drama",
+			"exploratory",
+			"shakespeare"
+		],
+		"authors": "Tonra, Justin; Kelly, David; Reid, Lindsay",
+		"conference": "Digital Humanities 2017",
+		"year": 2017
+	},
+	{
+		"title": "Topic Patterns in an Academic Literary Journal: The Case Of Teksty Drugie",
+		"keywords": [
+			"topic modeling",
+			"literary studies",
+			"networks",
+			"sociology of literature",
+			"poland"
+		],
+		"authors": "Maryl, Maciej; Eder, Maciej",
+		"conference": "Digital Humanities 2017",
+		"year": 2017
+	},
+	{
+		"title": "Towards a Digital Narratology of Space",
+		"keywords": [
+			"space",
+			"narratology",
+			"networks",
+			"text analysis",
+			"spatial analysis"
+		],
+		"authors": "Viehhauser-Mery, Gabriel; Barth, Florian",
+		"conference": "Digital Humanities 2017",
+		"year": 2017
+	},
+	{
+		"title": "Optical Character Recognition with a Neural Network Model for Printed Coptic Texts",
+		"keywords": [
+			"ocr",
+			"tesseract",
+			"ocropy",
+			"coptic"
+		],
+		"authors": "Bulert, Kirill",
+		"conference": "Digital Humanities 2017",
+		"year": 2017
+	},
+	{
+		"title": "Literary Exploration Machine: A New Tool for Distant Readers of Polish Literature",
+		"keywords": [
+			"digital literary studies",
+			"natural language processing",
+			"text mining",
+			"content analysis",
+			"web system"
+		],
+		"authors": "Piasecki, Maciej; Walkowiak, Tomasz; Maryl, Maciej",
+		"conference": "Digital Humanities 2017",
+		"year": 2017
+	},
+	{
+		"title": "From Usability Testing and Text Analysis to User- Response Criticism",
+		"keywords": [
+			"human-computer interaction",
+			"usability tests",
+			"text analysis",
+			"digital esthetics"
+		],
+		"authors": "Armaselu, Florentina; Jones, Catherine Emma",
+		"conference": "Digital Humanities 2017",
+		"year": 2017
+	},
+	{
+		"title": "Data Visualization in Archival Finding Aids: A New Paradigm for Access",
+		"keywords": [
+			"visualization",
+			"archives",
+			"access",
+			"finding aids",
+			"modeling"
+		],
+		"authors": "Bahde, Anne; Crawford, Cole",
+		"conference": "Digital Humanities 2017",
+		"year": 2017
+	},
+	{
+		"title": "A Generic Tool for Visualizing Patterns in Poetry",
+		"keywords": [
+			"poetry analysis",
+			"poetry visualization"
+		],
+		"authors": "Musaoğlu, Onur; Dağ, Özge; Küçükakça, Özge; Salah, Alkım Almıla Akdağ; Salah, Albert Ali",
+		"conference": "Digital Humanities 2017",
+		"year": 2017
+	},
+	{
+		"title": "Reimagining Elizabeth Palmer Peabody’s Lost “Mural Charts”",
+		"keywords": [
+			"historical fabrication",
+			"feminist making",
+			"data visualization",
+			"pedagogy",
+			"united states history"
+		],
+		"authors": "Beall,Alexandra;Allen,Courtney;Vujic,Angela;Klein,Lauren F.",
+		"conference": "Digital Humanities 2018",
+		"year": 2018
+	},
+	{
+		"title": "Educational Bridges: Understanding Conservation Dynamics in the Amazon through The Calha Norte Portal",
+		"keywords": [
+			"conservation",
+			"mapping",
+			"amazon",
+			"protected areas",
+			"anthropology"
+		],
+		"authors": "Reardon,Hannah Mabel",
+		"conference": "Digital Humanities 2018",
+		"year": 2018
+	},
+	{
+		"title": "On Alignment of Medieval Poetry",
+		"keywords": [
+			"visual analytics",
+			"user-centered design",
+			"computational alignment",
+			"intertextuality"
+		],
+		"authors": "Jänicke,Stefan;Wrisley,David Joseph",
+		"conference": "Digital Humanities 2018",
+		"year": 2018
+	},
+	{
+		"title": "Computer Vision in DH",
+		"keywords": [
+			"computer vision",
+			"distant viewing",
+			"visual culture",
+			"media studies"
+		],
+		"authors": "Tilton,Lauren;Arnold,Taylor;Smits,Thomas;Wevers,Melvin;Williams,Mark;Torresani,Lorenzo;Bolonkin,Maksim;Bell,John;Latsis,Dimitrios",
+		"conference": "Digital Humanities 2018",
+		"year": 2018
+	},
+	{
+		"title": "The Magnifying Glass and the Kaleidoscope. Analysing Scale in Digital History and Historiography",
+		"keywords": [
+			"digital history",
+			"historiography",
+			"digital hermeneutics",
+			"text analysis",
+			"text visualization",
+			"literary studies",
+			"linguistic studies",
+			"scale representation"
+		],
+		"authors": "Armaselu,Florentina",
+		"conference": "Digital Humanities 2018",
+		"year": 2018
+	},
+	{
+		"title": "Complex Networks of Desire: Mapping Community in Visual Arts Magazines Fireweed, Fuse, and Border/Lines",
+		"keywords": [
+			"network analysis",
+			"visualization",
+			"bibliographic metadata",
+			"digital art history",
+			"artists publications",
+			"feminisms"
+		],
+		"authors": "Tayler,Felicity;Neugebauer,Tomasz",
+		"conference": "Digital Humanities 2018",
+		"year": 2018
+	},
+	{
+		"title": "SpatioScholar: Annotating Photogrammetric Models",
+		"keywords": [
+			"temporospatial analysis",
+			"photogrammetry",
+			"3d"
+		],
+		"authors": "Ozludil Altin,Burcak;Wendell,Augustus",
+		"conference": "Digital Humanities 2018",
+		"year": 2018
+	},
+	{
+		"title": "An Easy-to-use Data Analysis and Visualization Tool for Studying Chinese Buddhist Literature",
+		"keywords": [
+			"chinese buddhist texts",
+			"quantitative analysis",
+			"text analysis",
+			"cbeta corpus"
+		],
+		"authors": "Hung,Jen-Jou",
+		"conference": "Digital Humanities 2018",
+		"year": 2018
+	},
+	{
+		"title": "Augmenting the University: Using Augmented Reality to Excavate University Spaces",
+		"keywords": [
+			"augmented reality",
+			"institutional history",
+			"special collections",
+			"information systems",
+			"geohumanities"
+		],
+		"authors": "Howard,Christian;Blair,Monica;Simotas,Spyros;Chakrabarti,Ankita;Clark,Torie;Greene,Tanner",
+		"conference": "Digital Humanities 2018",
+		"year": 2018
+	},
+	{
+		"title": "Finding Data in a Literary Corpus: A Curatorial Approach",
+		"keywords": [
+			"dh",
+			"digital literary studies",
+			"c19 american literature",
+			"wright american fiction corpus"
+		],
+		"authors": "Rittenhouse,Brad;Agarwal,Sudeep",
+		"conference": "Digital Humanities 2018",
+		"year": 2018
+	},
+	{
+		"title": "HuViz: From _Orlando_ to CWRC… And Beyond!",
+		"keywords": [
+			"semantic web",
+			"linked open data",
+			"data visualization",
+			"tool development",
+			"user-testing"
+		],
+		"authors": "Martin,Kim;Lemak,Abi;Brown,Susan;Miya,Chelsea;Smith-Elford,Jana",
+		"conference": "Digital Humanities 2018",
+		"year": 2018
+	},
+	{
+		"title": "TOME: A Topic Modeling Tool for Document Discovery and Exploration",
+		"keywords": [
+			"topic modeling",
+			"information visualization",
+			"interface design",
+			"black studies",
+			"social justice"
+		],
+		"authors": "Hayward,Adam;Bawa,Nikita;Orangi,Morgan;Foster,Caroline;Klein,Lauren F.",
+		"conference": "Digital Humanities 2018",
+		"year": 2018
+	},
+	{
+		"title": "Modeling the Fragmented Archive: A Missing Data Case Study from Provenance Research",
+		"keywords": [
+			"missing data",
+			"imputation"
+		],
+		"authors": "Lincoln,Matthew;van Ginhoven,Sandra",
+		"conference": "Digital Humanities 2018",
+		"year": 2018
+	},
+	{
+		"title": "Mapping the Movida: Re-Imagining Counterculture in Post-Franco Spain (1975-1992)",
+		"keywords": [
+			"madrid",
+			"counterculture",
+			"human geography",
+			"data visualization",
+			"mapping"
+		],
+		"authors": "Ceia,Vanessa",
+		"conference": "Digital Humanities 2018",
+		"year": 2018
+	},
+	{
+		"title": "\"Moon:\" A Spatial Analysis of the Gumar Corpus of Gulf Arabic Internet Fiction",
+		"keywords": [
+			"arabic",
+			"gulf arabic",
+			"romance fiction"
+		],
+		"authors": "Wrisley,David Joseph;Saddiki,Hind",
+		"conference": "Digital Humanities 2018",
+		"year": 2018
+	},
+	{
+		"title": "Combining String Matching and Cost Minimization Algorithms for Automatically Geocoding Tabular Itineraries",
+		"keywords": [
+			"historical itineraries",
+			"automated geocoding",
+			"toponym matching",
+			"dynamic programming",
+			"lest-cost path analysis",
+			"geographic information retrieval"
+		],
+		"authors": "Santos,Rui;Martins,Bruno Emanuel;Murrieta-Flores,Patricia",
+		"conference": "Digital Humanities 2018",
+		"year": 2018
+	},
+	{
+		"title": "Shedding Light on Indigenous Knowledge Concepts and World Perception through Visual Analysis",
+		"keywords": [
+			"data visualization",
+			"distant reading",
+			"e-lexicography",
+			"cultural studies",
+			"nature-inspired"
+		],
+		"authors": "Benito,Alejandro;Dorn,Amelie;Therón,Roberto;Wandl-Vogt,Eveline;Losada,Antonio",
+		"conference": "Digital Humanities 2018",
+		"year": 2018
+	},
+	{
+		"title": "Monroe Work Today: Unearthing the Geography of US Lynching Violence",
+		"keywords": [
+			"racial violence",
+			"lynching",
+			"gis"
+		],
+		"authors": "Ramey,RJ",
+		"conference": "Digital Humanities 2018",
+		"year": 2018
+	},
+	{
+		"title": "Analyzing Social Networks of XML Plays: Exploring Shakespeare’s Genres",
+		"keywords": [
+			"social networks",
+			"shakespeare",
+			"genre",
+			"drama",
+			"xml"
+		],
+		"authors": "Evalyn,Lawrence;Gauch,Susan;Shukla,Manisha",
+		"conference": "Digital Humanities 2018",
+		"year": 2018
+	},
+	{
+		"title": "Bridging Divides for Conservation in the Amazon: Digital Technologies & The Calha Norte Portal",
+		"keywords": [
+			"conservation",
+			"mapping",
+			"amazon",
+			"protected areas",
+			"anthropology"
+		],
+		"authors": "Reardon,Hannah Mabel",
+		"conference": "Digital Humanities 2018",
+		"year": 2018
+	},
+	{
+		"title": "Traditional Humanities Research and Interactive Mapping: Towards a User-Friendly Story of Two Worlds Collide",
+		"keywords": [
+			"digital",
+			"mapping",
+			"interface",
+			"visualization",
+			"geohumanities"
+		],
+		"authors": "Routsis,Vasileios",
+		"conference": "Digital Humanities 2018",
+		"year": 2018
+	},
+	{
+		"title": "Automated Genre and Author Distinction in Comics: Towards a Stylometry for Visual Narrative",
+		"keywords": [
+			"image analysis",
+			"stylometry",
+			"comics",
+			"visual culture"
+		],
+		"authors": "Dunst,Alexander;Hartel,Rita",
+		"conference": "Digital Humanities 2018",
+		"year": 2018
+	},
+	{
+		"title": "Semi-automated Alignment of Text Versions with iteal",
+		"keywords": [
+			"text editions",
+			"text alignment",
+			"alignment visualization"
+		],
+		"authors": "Jänicke,Stefan;Wrisley,David Joseph",
+		"conference": "Digital Humanities 2018",
+		"year": 2018
+	},
+	{
+		"title": "Visualising The Digital Humanities Community: A Comparison Study Between Citation Network And Social Network",
+		"keywords": [
+			"dh",
+			"author co-citation analysis",
+			"social network analysis",
+			"twitter",
+			"co-retweet"
+		],
+		"authors": "Gao,Jin;Nyhan,Julianne;Duke-Williams,Oliver;Mahony,Simon",
+		"conference": "Digital Humanities 2018",
+		"year": 2018
+	},
+	{
+		"title": "Building Bridges Across Heritage Silos",
+		"keywords": [
+			"crowdsourcing",
+			"mobile apps",
+			"storytelling",
+			"glams",
+			"semantic web",
+			"way-finding"
+		],
+		"authors": "Kontiza,Kalliopi;Jones,Catherine;Padfield,Joseph;Lykourentzou,Ioanna",
+		"conference": "Digital Humanities 2018",
+		"year": 2018
+	},
+	{
+		"title": "A Tool to Visualize Data on Scientific Performance in the Czech Republic",
+		"keywords": [
+			"science",
+			"evaluation",
+			"visualization",
+			"scientometrics",
+			"keywords"
+		],
+		"authors": "Hladík,Radim",
+		"conference": "Digital Humanities 2018",
+		"year": 2018
+	},
+	{
+		"title": "Computational Analysis and Visual Stylometry of Comics using Convolutional Neural Networks",
+		"keywords": [
+			"comics",
+			"visual stylometry",
+			"convolutional neural networks",
+			"image analysis"
+		],
+		"authors": "Laubrock,Jochen;Dubray,David",
+		"conference": "Digital Humanities 2018",
+		"year": 2018
+	},
+	{
+		"title": "Locating Place Names at Scale: Using Natural Language Processing to Identify Geographical Information in Text",
+		"keywords": [
+			"place",
+			"geography",
+			"natural language processing",
+			"named entity recognition"
+		],
+		"authors": "Tilton,Lauren;Arnold,Taylor;Rivard,Courtney",
+		"conference": "Digital Humanities 2018",
+		"year": 2018
+	},
+	{
+		"title": "Chromatic Structure and Family Resemblance in Large Art Collections — Exemplary Quantification and Visualizations",
+		"keywords": [
+			"art history",
+			"computer science",
+			"machine learning"
+		],
+		"authors": "Tran,Loan T;Park,Kelly;Lee,Poshen;West,Jevin;Schich,Maximilian",
+		"conference": "Digital Humanities 2018",
+		"year": 2018
+	},
+	{
+		"title": "Keeping 3D data alive: Developments in the MayaCityBuilder Project",
+		"keywords": [
+			"procedural modeling",
+			"web-based archeology",
+			"data preservation",
+			"3d visualization",
+			"open source"
+		],
+		"authors": "Richards-Rissetto,Heather;Optiz,Rachel;Galeazzi,Fabrizio",
+		"conference": "Digital Humanities 2018",
+		"year": 2018
+	},
+	{
+		"title": "Building Bridges With Interactive Visual Technologies",
+		"keywords": [
+			"3d digitization",
+			"3d visualization",
+			"ontologies",
+			"standards",
+			"digital museography"
+		],
+		"authors": "Joffres,Adeline;Ruiz Rodarte,Rocio;Scopigno,Roberto;Bruseker,George;Guillem,Anaïs;Puren,Marie;Riondet,Charles;Alliez,Pierre;Niccolucci,Franco",
+		"conference": "Digital Humanities 2018",
+		"year": 2018
+	},
+	{
+		"title": "Preserving and Visualizing Queer Representation in Video Games",
+		"keywords": [
+			"game studies",
+			"queer studies",
+			"representation",
+			"visualization",
+			"archiving"
+		],
+		"authors": "Mejeur,Cody Jay",
+		"conference": "Digital Humanities 2018",
+		"year": 2018
+	},
+	{
+		"title": "Resolving South Asian Orthographic Indeterminacy In Colonial-Era Archives",
+		"keywords": [
+			"south asia",
+			"translation",
+			"orthography",
+			"corella"
+		],
+		"authors": "Singh,Amardeep",
+		"conference": "Digital Humanities 2018",
+		"year": 2018
+	},
+	{
+		"title": "Archiving Small Twitter Datasets for Text Analysis: A Workshop for Beginners",
+		"keywords": [
+			"archiving",
+			"social media",
+			"twitter",
+			"text analysis"
+		],
+		"authors": "Priego,Ernesto",
+		"conference": "Digital Humanities 2018",
+		"year": 2018
+	},
+	{
+		"title": "Beyond Image Search: Computer Vision in Western Art History",
+		"keywords": [
+			"computer vision",
+			"art history",
+			"visual search",
+			"notational systems"
+		],
+		"authors": "Impett,Leonardo Laurence;Bell,Peter;Seguin,Benoit Auguste;Ommer,Bjorn",
+		"conference": "Digital Humanities 2018",
+		"year": 2018
+	},
+	{
+		"title": "Getting to Grips with Semantic and Geo-annotation using Recogito 2",
+		"keywords": [
+			"geo-annotation",
+			"linked open data",
+			"pelagios",
+			"linked pasts"
+		],
+		"authors": "Isaksen,Leif;del Río Riande,Gimena;De León,Romina;Hernández,Nidia",
+		"conference": "Digital Humanities 2018",
+		"year": 2018
+	},
+	{
+		"title": "Women’s Faces and Women’s Rights: A Contextual Analysis of Faces Appearing in Time Magazine",
+		"keywords": [
+			"gender",
+			"machine learning",
+			"media studies",
+			"visualization",
+			"faces"
+		],
+		"authors": "Brennan,Kathleen Patricia Janet;Berardi,Vincent;Cornejo,Aisha;Bennett,Carl;Harlan,John;Jofre,Ana",
+		"conference": "Digital Humanities 2018",
+		"year": 2018
+	},
+	{
+		"title": "Exploring Big and Boutique Data through Laboring-Class Poets Online",
+		"keywords": [
+			"laboring-class studies",
+			"databases",
+			"data"
+		],
+		"authors": "Crawford,Cole Daniel",
+		"conference": "Digital Humanities 2018",
+		"year": 2018
+	},
+	{
+		"title": "Locative Media for Queer Histories: Scaling up \"Go Queer\"",
+		"keywords": [
+			"queer studies",
+			"locative media",
+			"mobile media"
+		],
+		"authors": "Engel,Maureen",
+		"conference": "Digital Humanities 2018",
+		"year": 2018
+	},
+	{
+		"title": "Jumpstarting Digital Humanities Projects",
+		"keywords": [
+			"project planning",
+			"project management",
+			"databases",
+			"digitization",
+			"visualization"
+		],
+		"authors": "French,Amanda;Chao,Anne;Robinson,Marco;Riedel,Brian",
+		"conference": "Digital Humanities 2018",
+		"year": 2018
+	},
+	{
+		"title": "Resolving the Polynymy of Place: or How to Create a Gazetteer of Colonized Landscapes",
+		"keywords": [
+			"geohumanities",
+			"toponyms",
+			"authority ids",
+			"colonized landscapes"
+		],
+		"authors": "Faull,Katherine Mary;Jakacki,Diane Katherine",
+		"conference": "Digital Humanities 2018",
+		"year": 2018
+	},
+	{
+		"title": "Spatial Disaggregation of Historical Census Data Leveraging Multiple Sources of Ancillary Data",
+		"keywords": [
+			"spatial disaggregation",
+			"regression analysis",
+			"deep learning",
+			"historical census data",
+			"geo-spatial humanities"
+		],
+		"authors": "Monteiro,João Miguel;Martins,Bruno Emanuel;Murrieta-Flores,Patricia;Pires,João Moura",
+		"conference": "Digital Humanities 2018",
+		"year": 2018
+	},
+	{
+		"title": "Developing Digital Methods to Map Museum \"Soft Power\"",
+		"keywords": [
+			"soft power",
+			"museums",
+			"digital mapping",
+			"visualization",
+			"collections",
+			"global networks"
+		],
+		"authors": "Grincheva,Natalia",
+		"conference": "Digital Humanities 2018",
+		"year": 2018
+	},
+	{
+		"title": "Digital 3D modelling in the humanities",
+		"keywords": [
+			"digital 3d modeling",
+			"practice-based education",
+			"design implications"
+		],
+		"authors": "Münster,Sander",
+		"conference": "Digital Humanities 2018",
+		"year": 2018
+	},
+	{
+		"title": "Bridging Cultures Through Mapping Practices: Space and Power in Asia and America",
+		"keywords": [
+			"mapping",
+			"power",
+			"spatial analysis",
+			"urban history",
+			"visualization"
+		],
+		"authors": "Armand,Cecile;Henriot,Christian;Kim,Sora;Caine,Ian;Gonzalez,Jerry;Walter,Rebecca",
+		"conference": "Digital Humanities 2018",
+		"year": 2018
+	},
+	{
+		"title": "A Deep Gazetteer of Time Periods",
+		"keywords": [
+			"periodization",
+			"linked data"
+		],
+		"authors": "Shaw,Ryan;Rabinowitz,Adam;Golden,Patrick",
+		"conference": "Digital Humanities 2018",
+		"year": 2018
+	},
+	{
+		"title": "The Spatial Humanities Kit",
+		"keywords": [
+			"spatial humanities",
+			"locative media",
+			"social good",
+			"humanities gis",
+			"autoethnography"
+		],
+		"authors": "Applegate,Matt;Cohen,Jamie",
+		"conference": "Digital Humanities 2018",
+		"year": 2018
+	},
+	{
+		"title": "Towards A Digital Dissolution: The Challenges Of Mapping Revolutionary Change In Pre-modern Europe",
+		"keywords": [
+			"medieval",
+			"monastery",
+			"visualization",
+			"geospatial",
+			"spatiotemporal"
+		],
+		"authors": "Tupman,Charlotte;Clark,James;Holding,Richard",
+		"conference": "Digital Humanities 2018",
+		"year": 2018
+	},
+	{
+		"title": "Can Non-Representational Space Be Mapped? The Case of Black Geographies",
+		"keywords": [
+			"black studies",
+			"black geographies",
+			"spatial analysis",
+			"digital cartography",
+			"visualization"
+		],
+		"authors": "Schroeder,Jonathan David;Callahan,Clare Eileen;Modestino,Kevin;Thompson,Tyechia Lynn",
+		"conference": "Digital Humanities 2018",
+		"year": 2018
+	},
+	{
+		"title": "DH in 3D: Multidimensional Research and Education in the Digital Humanities",
+		"keywords": [
+			"three-dimensionality",
+			"virtual reality",
+			"augmented reality",
+			"data visualization",
+			"immersive spaces",
+			"social justice"
+		],
+		"authors": "Hendery,Rachel;Jones,Steven;Kaufman,Micki;Licastro,Amanda;Nieves,Angel David;Richards,Kate;Rockwell,Geoffrey;Snyder,Lisa M.",
+		"conference": "Digital Humanities 2018",
+		"year": 2018
+	},
+	{
+		"title": "Towards a Digital History of the Spanish Invasion of Indigenous Peru / Hacia una historia digital de la invasión española del Perú indígena",
+		"keywords": [
+			"spatial history",
+			"visualization",
+			"indigenous",
+			"gis",
+			"geohumanities"
+		],
+		"authors": "Mikecz,Jeremy M.",
+		"conference": "Digital Humanities 2018",
+		"year": 2018
+	},
+	{
+		"title": "The Moral Geography of Milton's Paradise Lost",
+		"keywords": [
+			"geohumanities",
+			"renaissance",
+			"paradise lost",
+			"deep map",
+			"georectifying"
+		],
+		"authors": "El Khatib,Randa",
+		"conference": "Digital Humanities 2018",
+		"year": 2018
+	},
+	{
+		"title": "Digital Humanities meets Digital Cultural Heritage",
+		"keywords": [
+			"digital cultural heritage",
+			"scholarly community",
+			"research topics"
+		],
+		"authors": "Münster,Sander;Rinaudo,Fulvio;Tamborrino,Rosa;Apollonio,Fabrizio;Ioannides,Marinos;Snyder,Lisa",
+		"conference": "Digital Humanities 2018",
+		"year": 2018
+	},
+	{
+		"title": "Cataloging History: Revisualizing the 1853 New York Crystal Palace",
+		"keywords": [
+			"museums",
+			"visualizations",
+			"digital objects",
+			"database"
+		],
+		"authors": "Lubar,Steven;Esten,Emily;Gomez,Steffani;Croxall,Brian;Rashleigh,Patrick",
+		"conference": "Digital Humanities 2018",
+		"year": 2018
+	},
+	{
+		"title": "Modeling the Genealogy of Imagetexts: Studying Images and Texts in Conjunction using Computational Methods",
+		"keywords": [
+			"computer vision",
+			"media history",
+			"visual culture",
+			"information theory",
+			"text mining"
+		],
+		"authors": "Wevers,Melvin;Smits,Thomas;Impett,Leonardo",
+		"conference": "Digital Humanities 2018",
+		"year": 2018
+	},
+	{
+		"title": "Histonets, Turning Historical Maps into Digital Networks",
+		"keywords": [
+			"road extraction",
+			"road vectorization",
+			"communication networks",
+			"computer vision"
+		],
+		"authors": "de la Rosa Pérez,Javier;Bailey,Scott;Nall,Clayton;Jester,Ashley;Reed,Jack;Winget,Drew",
+		"conference": "Digital Humanities 2018",
+		"year": 2018
+	},
+	{
+		"title": "Labeculæ Vivæ. Building a Reference Library of Stains Found on Medieval Manuscripts with Multispectral Imaging",
+		"keywords": [
+			"stains",
+			"multispectral imaging",
+			"xrf",
+			"ftir",
+			"materiality"
+		],
+		"authors": "Wacha,Heather;Campagnolo,Alberto;Connelly,Erin",
+		"conference": "Digital Humanities 2018",
+		"year": 2018
+	},
+	{
+		"title": "Visualizing the Feminist Controversy in England, 1788-1810",
+		"keywords": [
+			"feminism",
+			"gender",
+			"visualization"
+		],
+		"authors": "Mandell,Laura C;Pearson,Megan;Kempe,Rebecca;Dezort,Steve",
+		"conference": "Digital Humanities 2018",
+		"year": 2018
+	},
+	{
+		"title": "The 91st Volume — How the Digitised Index for the Collected Works of Leo Tolstoy Adds A New Angle for Research",
+		"keywords": [
+			"tolstoy",
+			"digital edition",
+			"text visualization"
+		],
+		"authors": "Orekhov,Boris V.;Fischer,Frank",
+		"conference": "Digital Humanities 2018",
+		"year": 2018
+	},
+	{
+		"title": "\"Smog poem\". Example of data dramatization",
+		"keywords": [
+			"electronic literature",
+			"text generator",
+			"data dramatization",
+			"creative computing",
+			"experiment"
+		],
+		"authors": "Marecki,Piotr;Onak,Leszek",
+		"conference": "Digital Humanities 2018",
+		"year": 2018
+	},
+	{
+		"title": "Machine Reading Part II: Advanced Topics in Word Vectors",
+		"keywords": [
+			"word embeddings",
+			"bias",
+			"vectors",
+			"visualization",
+			"text mining"
+		],
+		"authors": "Jo,Eun Seo;de la Rosa Pérez,Javier;Bailey,Scott;Sancho,Fernando",
+		"conference": "Digital Humanities 2018",
+		"year": 2018
+	},
+	{
+		"title": "LitViz: Visualizing Literary Data by Means of text2voronoi",
+		"keywords": [
+			"text visualization",
+			"stylometry",
+			"distant reading",
+			"text imaging"
+		],
+		"authors": "Uslu,Tolga;Mehler,Alexander;Meyer,Dirk",
+		"conference": "Digital Humanities 2018",
+		"year": 2018
+	}
+]
