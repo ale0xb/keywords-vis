@@ -30,6 +30,10 @@ Instructions adapted from Jeffrey Perkel's [example notebook](https://github.com
 4. Select `Runtime > Run All` in the menu to execute the notebook. (You may get a warning that the page was not authored by Google.) 
 5. Go the bottom and check the visualization that was just created.
 
+**To use CodeOcean:**
+1. Click the `Open in CodeOcean` button above. It will launch the notebook directly. Then either:
+2. Click the 'Run' button at the top right (click the `keywords_vis.html` file in the Results pane at right to see the output); or 
+3. Launch an [interactive Jupyter session within Code Ocean](https://help.codeocean.com/interactive-sessions/interactive-jupyter-sessions).
 
 **To run the notebook locally (python 3.6 and pip required)**
 1. `git clone https://github.com/ale0xb/keywords-vis`
