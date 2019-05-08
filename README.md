@@ -46,7 +46,7 @@ Instructions adapted from Jeffrey Perkel's [example notebook](https://github.com
 8. Run all cells: Kernel > Restart & Run All 
 
 ## Visualizing other queries
-You can try other queries by modifying the variable `path_keys`, which is set to show the second use-case of the paper: `path_keys = ['willa', 'racial']`
+You can try other queries by modifying the variable `path_keys`, which is set to show the first use-case of the paper: `path_keys = ['shakespear']`
 Any other combination of query keywords is accepted. You can find all available query keywords in `merged_paths_dict`. 
 
 ## Regenerating the model / Using your own data
