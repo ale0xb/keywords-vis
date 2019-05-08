@@ -41,10 +41,9 @@ Instructions adapted from Jeffrey Perkel's [example notebook](https://github.com
 3. `mkvirtualenv keywords-vis` (if you have [virtualenvwrapper](https://pypi.org/project/virtualenvwrapper/) installed). Otherwise create a virtual environment as usual.
 4. When the virtual environment has been activated, use `pip install -r requirements.txt`.
 5. `python -m ipykernel install --user --name=keywords-vis`.
-6. To generate citations within the notebook, use `python -m cite2c.install`.
-7. Launch jupyter with `jupyter notebook` and [keywords_vis.ipynb](keywords_vis.ipynb)
-8. Select the kernel that was created in step 5: Kernel > Change Kernel > keywords-vis
-9. Run all cells: Kernel > Restart & Run All 
+6. Launch jupyter with `jupyter notebook` and [keywords_vis.ipynb](keywords_vis.ipynb)
+7. Select the kernel that was created in step 5: Kernel > Change Kernel > keywords-vis
+8. Run all cells: Kernel > Restart & Run All 
 
 ## Visualizing other queries
 You can try other queries by modifying the variable `path_keys`, which is set to show the second use-case of the paper: `path_keys = ['willa', 'racial']`
