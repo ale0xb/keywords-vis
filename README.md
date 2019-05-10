@@ -1,4 +1,5 @@
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ale0xb/keywords-vis/blob/master/keywords_vis.ipynb)
+[![Open in Code Ocean](https://codeocean.com/codeocean-assets/badge/open-in-code-ocean.svg)](https://doi.org/10.24433/CO.7350089.v1)
 
 # Cross-domain joint visualization of documents and keywords
 
