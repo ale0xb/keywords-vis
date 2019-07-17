@@ -1,0 +1,374 @@
+[
+  {
+    "title": "MRI of prostate brachytherapy seeds at high field: A study in phantom",
+    "keywords": "3 Tesla; Brachytherapy; Field dependence; MRI"
+  },
+  {
+    "title": "Modeling the past: Digital technologies and excavations in Polis, Cyprus",
+    "keywords": "3D digital modeling; 3D scanning; archaeology; Arsinoe; Cyprus; excavation; exhibition; Marion; museum; Polis Chrysochous; public; students"
+  },
+  {
+    "title": "Modeling the past online: Interactive visualisation of uncertainty and phasing",
+    "keywords": "3D digital modeling; 3D scanning; Archaeology; Cyprus; Excavation; Exhibition; Marion; Museum; Polis Chrysochous; Public; Students; Websites"
+  },
+  {
+    "title": "Three-dimensional coastal front visualization from RADARSAT-1 SAR satellite data",
+    "keywords": "3D; 3D reconstruction; Front; Fuzzy B-spline algorithm; RADARSAT- 1SAR; velocity bunching; Volterra model"
+  },
+  {
+    "title": "Classification schemes for visualization of uncertainty in digital hypothetical reconstruction",
+    "keywords": "3D modelling; Architectural heritage; Classification scheme; Knowledge system; Semantic structure; Uncertainty visualization"
+  },
+  {
+    "title": "Quantification and Visualization of Charged Particle Range Variations",
+    "keywords": "4D-CT; Charged particle; Four-dimensional computed tomography; Radiotherapy; Range uncertainty; Respiratory; Water equivalent pathlength"
+  },
+  {
+    "title": "Measuring blood velocity using 4D-DSA: A feasibility study",
+    "keywords": "4D-DSA; blood flow; blood velocimetry"
+  },
+  {
+    "title": "A real-time ultrasound calibration system with automatic accuracy control and incorporation of ultrasound section thickness",
+    "keywords": "Accuracy control; Beam width; Computer-assisted surgery; Real-time calibration; Section thickness; Ultrasound imaging"
+  },
+  {
+    "title": "Uncertainty propagation and analysis of image-guided surgery",
+    "keywords": "Accuracy; Error analysis; Image guidance; Surgical navigation; Uncertainty"
+  },
+  {
+    "title": "A Feature-Driven Active Framework for Ultrasound-Based Brain Shift Compensation",
+    "keywords": "Active image registration; Brain shift; Gaussian process; Uncertainty"
+  },
+  {
+    "title": "Theoretical investigation of the design and performance of a dual energy (kV and MV) radiotherapy imager",
+    "keywords": "active matrix flat panel imager; dual energy imager; flat-panel imager; hybrid modeling; kilovoltage cone-beam CT; megavoltage cone-beam CT; Monte Carlo simulation; segmented crystalline scintillators"
+  },
+  {
+    "title": "A GPU based high-resolution multilevel biomechanical head and neck model for validating deformable image registration",
+    "keywords": "adaptive radiotherapy; biomechanical model; deformable image registration; GPU"
+  },
+  {
+    "title": "An augmented parametric response map with consideration of image registration error: Towards guidance of locally adaptive radiotherapy",
+    "keywords": "adaptive radiotherapy; image guidance; image registration error; parametric response map; uncertainty analysis"
+  },
+  {
+    "title": "Technical Note: Estimation of lung tumor thickness from planar dual-energy kV images",
+    "keywords": "adaptive therapy; dual energy imaging; protons"
+  },
+  {
+    "title": "Integrating human factors in information systems development: User centred and agile development approaches",
+    "keywords": "Agile software development; Human factors; Information system development; Interactive software; User-centred design"
+  },
+  {
+    "title": "Extension-Evaluation-Based Alternative Resource Selection for Cloud Manufacturing",
+    "keywords": "Alternative resource selection; Cloud manufacturing; Extension theory; Manufacturing risk evaluation"
+  },
+  {
+    "title": "Two-dimensional visual inspection of pitch-space, many time-scales and tonal uncertainty over time",
+    "keywords": "Ambiguity; Multi-scale; Pitch-space; Toroidal; Visualization"
+  },
+  {
+    "title": "A statistical approach to IMRT patient-specific QA",
+    "keywords": "analysis of variance; intensity modulated radiation therapy; quality assurance; statistical process control"
+  },
+  {
+    "title": "Towards advanced goal model analysis with jUCMNav",
+    "keywords": "Analysis; Goal-oriented Requirement Language; jUCMNav; strategies; tool support; User Requirements Notation; visualization"
+  },
+  {
+    "title": "Fuzzy object modeling",
+    "keywords": "Anatomic models; Fuzzy connectedness; Fuzzy objects; Segmentation"
+  },
+  {
+    "title": "SFREEMAP - A simulation-free tool for stochastic mapping",
+    "keywords": "Ancestral states; Phylogenetics; Rate of evolution"
+  },
+  {
+    "title": "Towards real time epidemiology: Data assimilation, modeling and anomaly detection of health surveillance data streams",
+    "keywords": "Anomaly detection; Bayesian inference; Data assimilation; Interactive visualization; Real time epidemiology; Surveillance"
+  },
+  {
+    "title": "Fuzzy association rule mining from spatio-temporal data",
+    "keywords": "Association rule mining; Association rule mining comparison criteria; Data mining; Fuzzy association rules; Fuzzy spatio-temporal data cube"
+  },
+  {
+    "title": "An augmented reality system for maxillo-facial surgery",
+    "keywords": "Augmented reality; Computer-aided surgery; Maxillo-facial surgery"
+  },
+  {
+    "title": "Automatic decision-oriented mapping of pollution data",
+    "keywords": "Automatic cartography; Decision-oriented mapping; General Regression Neural Networks; Uncertainty estimation"
+  },
+  {
+    "title": "Transparency of automated combat classification",
+    "keywords": "automation transparency; Classification support; fighter pilots; uncertainty visualization"
+  },
+  {
+    "title": "Transparency of military threat evaluation through visualizing uncertainty and system rationale",
+    "keywords": "Automation transparency; system rationale; threat evaluation; trust; uncertainty visualization"
+  },
+  {
+    "title": "A design methodology for trust cue calibration in cognitive agents",
+    "keywords": "Automation; Bayesian Modeling; Cognitive Agents; Computational Trust Modeling; Cyber Operations; Trust; Trust Calibration; Trust Cues; Trustworthiness; Uncertainty Visualization; Unmanned Systems"
+  },
+  {
+    "title": "AAPM and GEC-ESTRO guidelines for image-guided robotic brachytherapy: Report of Task Group 192",
+    "keywords": "automation; brachytherapy; implantation; robots; treatment planning"
+  },
+  {
+    "title": "Deformable registration for geometric distortion correction of diffusion tensor imaging",
+    "keywords": "B-spline transform; Deformable registration; Diffusion tensor imaging; Geometric distortion"
+  },
+  {
+    "title": "Bayesian unidimensional scaling for visualizing uncertainty in high dimensional datasets with latent ordering of observations",
+    "keywords": "Bayesian model; Dimensionality reduction; Microbiome; Ordering; Pseudotime; Single cell; Uncertainty"
+  },
+  {
+    "title": "Joint Segmentation and Uncertainty Visualization of Retinal Layers in Optical Coherence Tomography Images Using Bayesian Deep Learning",
+    "keywords": "Bayesian segmentation; Fully convolution neural networks; OCT; Retinal imaging; Uncertainty maps"
+  },
+  {
+    "title": "Benchmarking dynamic three-dimensional bin packing problems using discrete-event simulation",
+    "keywords": "Benchmarking; Bin packing problem; Dynamic optimization; Simulation"
+  },
+  {
+    "title": "Generalized box-plot for root growth ensembles",
+    "keywords": "Bioinformatics visualization; Curve ensembles; Uncertainty visualization"
+  },
+  {
+    "title": "The role of glycosaminoglycans in tissue adhesion during energy-based vessel sealing",
+    "keywords": "Bursting Pressure; Constitutive Model; Glycosaminoglycans; Hemostasis; Tissue Welding; Vascular Fusion"
+  },
+  {
+    "title": "Simultaneous 3D-2D image registration and C-arm calibration: Application to endovascular image-guided interventions",
+    "keywords": "C-arm; calibration; gold standard datasets; image registration; image-guided intervention; validation"
+  },
+  {
+    "title": "Characterization of optical-surface-imaging-based spirometry for respiratory surrogating in radiotherapy",
+    "keywords": "Calibration; Cancer; III-V semiconductors; Lungs; Medical imaging; Radiation therapy; Surface dynamics; Surface patterning; Three dimensional image processing"
+  },
+  {
+    "title": "STED microscopy visualizes energy deposition of single ions in a solid-state detector beyond diffraction limit",
+    "keywords": "Cell-Fit-HD; confocal imaging; energy deposition; fluorescent nuclear track detector; ion beam cancer therapy; radiobiology; stimulated emission depletion microscopy"
+  },
+  {
+    "title": "Hitchers: Designing for cellular positioning",
+    "keywords": "Cellular positioning; Mobile games; Seamful design; Ubiquitous computing"
+  },
+  {
+    "title": "BayesGrad: Explaining predictions of graph convolutional networks",
+    "keywords": "Cheminformatics; Deep learning; Graph convolution; Interpretability; Machine learning"
+  },
+  {
+    "title": "Simulation of collaborative innovation system in cluster environment",
+    "keywords": "Cluster Innovation System; Multi-agent; Swarm Simulation"
+  },
+  {
+    "title": "Mindminer: A mixed-initiative interface for interactive distance metric learning",
+    "keywords": "Clustering; Convex optimization; Intelligent user interfaces; Machine learning; Mixed-Initiative interface; Visualization"
+  },
+  {
+    "title": "Ergonomic considerations for the design and the evaluation of uncertain data visualizations",
+    "keywords": "Cognitive load; Efficiency; Ergonomics; Uncertainty; Visualization"
+  },
+  {
+    "title": "Multilaboratory particle image velocimetry analysis of the FDA benchmark nozzle model to support validation of computational fluid dynamics simulations",
+    "keywords": "Computational fluid dynamics; FDA critical path initiative; Particle image velocimetry; Shear stress; Sudden expansion; Transitional flow; Turbulent flow measurement"
+  },
+  {
+    "title": "Visualizing blood vessel trees in three dimensions: Clinical applications",
+    "keywords": "Computer-assisted diagnosis; MRA; Registration; Segmentation; Surgical guidance; Vessels"
+  },
+  {
+    "title": "Visual saliency based on conditional entropy",
+    "keywords": "Conditional entropy; Lossy coding length; Saliency detection"
+  },
+  {
+    "title": "Clinical evaluation of soft tissue organ boundary visualization on cone-beam computed tomographic imaging",
+    "keywords": "Cone-beam CT; Image quality; Image-guided adaptive radiotherapy; Prostate cancer; Segmentation"
+  },
+  {
+    "title": "The quality of geospatial context",
+    "keywords": "Context; Error; Geospatial data; Uncertainty; Web 2.0"
+  },
+  {
+    "title": "Collaborative design of advanced vessel technology for offshore operations in arctic waters",
+    "keywords": "cooperative design; optimization; shipbuilding"
+  },
+  {
+    "title": "surrosurv: An R package for the evaluation of failure time surrogate endpoints in individual patient data meta-analyses of randomized clinical trials",
+    "keywords": "Copula; Individual patient data meta-analyses; Mixed models; R; Surrogate endpoints; Survival"
+  },
+  {
+    "title": "Student preferences for visualising uncertainty in open learner models",
+    "keywords": "Dashboards; Open learner models; Uncertainty; Visualisation"
+  },
+  {
+    "title": "Increasing trust in personal informatics tools",
+    "keywords": "data provenance; information visualization; personal informatics; transparent user interfaces"
+  },
+  {
+    "title": "Propagation of registration uncertainty during multi-fraction cervical cancer brachytherapy",
+    "keywords": "deformable image registration; multi-fraction brachytherapy; uncertainty"
+  },
+  {
+    "title": "Development of a population-based model of surface segmentation uncertainties for uncertainty-weighted deformable image registrations",
+    "keywords": "Deformable registration; Population model; Segmentation uncertainty; Surface-based registration; Uncertainty model"
+  },
+  {
+    "title": "Super-resolution reconstruction in frequency, image, and wavelet domains to reduce through-plane partial voluming in MRI",
+    "keywords": "density compensation; image fusion; image reconstruction; nonuniform reconstruction; partial voluming; slice profile; super-resolution; tuberous sclerosis complex"
+  },
+  {
+    "title": "Improving sustainability through usability",
+    "keywords": "Design; Digital human modeling; Green chemistry; Health and safety; Risk Management; Sustainability; Usability; Visualizations"
+  },
+  {
+    "title": "Risk reduction overview: A visualization method for risk management",
+    "keywords": "Design; Residual risk; Risk management; Security; Security measure; Visualization"
+  },
+  {
+    "title": "Statistical tools for the temporal analysis and classification of lung lesions",
+    "keywords": "Detection of changes in tissues; Lung lesion; Medical image; Temporal analysis and evaluation; Uncertainty"
+  },
+  {
+    "title": "Visually exploring differences of DTI fiber models",
+    "keywords": "Difference visualization; Diffusion tensor imaging; Fiber tracking; Visual exploration"
+  },
+  {
+    "title": "A GPU-based fiber tracking framework using geometry shaders",
+    "keywords": "Diffusion tensor imaging; Fiber tracking; GPU; Visualization"
+  },
+  {
+    "title": "A new surveillance and spatio-temporal visualization tool SIMID: SIMulation of Infectious Diseases using random networks and GIS",
+    "keywords": "Disease outbreaks; Networks; Software for epidemic surveillance; Spatio-temporal models in epidemiology"
+  },
+  {
+    "title": "Introducing gel dosimetry in a clinical environment: Customization of polymer gel composition and magnetic resonance imaging parameters used for 3D dose verifications in radiosurgery and intensity modulated radiotherapy",
+    "keywords": "Dosimetry; IMRT; Magnetic resonance imaging; Polymer gel; Radiosurgery"
+  },
+  {
+    "title": "Optimized Time-Resolved Echo Particle Image Velocimetry-Particle Tracking Velocimetry Measurements Elucidate Blood Flow in Patients with Left Ventricular Thrombus",
+    "keywords": "Echo-PIV; LV; PTV; thrombus; vortex; vortex-induced apical velocity"
+  },
+  {
+    "title": "Tumor correlated CT: A new paradigm for motion compensated CT for image guided-therapy",
+    "keywords": "Electromagnetic; Localization & tracking technologies; Modeling; Synchronous CT; Treatment Planning; Visualization"
+  },
+  {
+    "title": "Quality evaluation measures of pixel - Level image fusion using fuzzy logic",
+    "keywords": "entropy; fusion factor; fusion index; fusion symmetry; fuzzy logic; image fusion; image quality index; multispectral; mutual information measure; panchromatic; wavelet transform"
+  },
+  {
+    "title": "Rough sets methods for working with uncertainty",
+    "keywords": "Evaluation; many valued logics; partner selection"
+  },
+  {
+    "title": "Rapid processing of PET list-mode data for efficient uncertainty estimation and data analysis",
+    "keywords": "fast data processing; graphics processing unit; histogramming; list mode; motion detection; posistron emission tomography; projection views"
+  },
+  {
+    "title": "Fiber Bragg gratings-based sensing for real-time needle tracking during MR-guided brachytherapy",
+    "keywords": "fiber Bragg grating; MR-guided intervention; needle tracking; optic fiber; real-time"
+  },
+  {
+    "title": "A fluid dynamics study in a 50 cc pulsatile ventricular assist device: Influence of heart rate variability",
+    "keywords": "fluid dynamics; particle image velocimetry; pulsatile; thrombosis; ventricular assist device; wall shear"
+  },
+  {
+    "title": "Sampling with poling-based flux balance analysis: Optimal versus sub-optimal flux space analysis of Actinobacillus succinogenes",
+    "keywords": "Flux balance analysis; Flux sampling; Optimisation"
+  },
+  {
+    "title": "Visualizing positional uncertainty in freehand 3D ultrasound",
+    "keywords": "Freehand 3D ultrasound; Positional uncertainty; Tracking errors; Uncertainty visualization"
+  },
+  {
+    "title": "Stereo display of CT images for lung cancer screening: A pilot study",
+    "keywords": "FROC; Lung CT; Stereo display; Validation; Visualization"
+  },
+  {
+    "title": "A comparative study on SOM-based visualization of potential technical solutions using fuzzy bag-of-words and co-occurrence probability of technical words",
+    "keywords": "Fuzzy bag-of-words; Patent documents; Technical solution"
+  },
+  {
+    "title": "Geo-spatial data analysis, quality assessment and visualization",
+    "keywords": "Geo-spatial data analysis; Quality assessment; Visualization"
+  },
+  {
+    "title": "CandidTree: Visualizing structural uncertainty in similar hierarchies",
+    "keywords": "Graphical user interfaces; Structural uncertainty; Tree comparison; Uncertainty visualization"
+  },
+  {
+    "title": "Research and implementation of parameters optimization simulation environment for hydrological models",
+    "keywords": "Hydrological models; Optimization method; Parameter estimation; Simulation environment"
+  },
+  {
+    "title": "Ties between mined structural patterns in program and their identifier names",
+    "keywords": "Implicit knowledge extraction; Pattern mining; Software engineering; Support vector machines"
+  },
+  {
+    "title": "SAW-oriented user interfaces for emergency dispatch systems",
+    "keywords": "Information fusion; Situation assessment; Situational awareness; User interfaces"
+  },
+  {
+    "title": "Characterization and visualization of RNA secondary structure Boltzmann ensemble via information theory",
+    "keywords": "Information theory; Mutual information; Nearest neighbor model; RNA; RNA secondary structure"
+  },
+  {
+    "title": "User experience design for Green IT products through wearable computing and Quantified Self",
+    "keywords": "Interaction design; Participatory design; Quantified self; Small data; Smart clothing; Wearable computing"
+  },
+  {
+    "title": "MediSyn: Uncertainty-aware visualization of multiple biomedical datasets to support drug treatment selection",
+    "keywords": "Interactive visualization; Multiple datasets; Uncertainty visualization"
+  },
+  {
+    "title": "An assessment of quantitative uncertainty visualization methods for interpolated meteorological data",
+    "keywords": "Krigging; Meteorological data; Uncertainty; Visualisation"
+  },
+  {
+    "title": "An algorithm for treating uncertainties in the visualization of pipeline sensors' datasets",
+    "keywords": "LDS; Nuggets; Pipeline-sensors; Signal dataspace; Uncertainty visualisation"
+  },
+  {
+    "title": "Evaluating the effect of uncertainty visualisation in open learner models on students’ metacognitive skills",
+    "keywords": "Learning dashboards; Metacognitive skills; Open learner models; Self-confidence; Uncertainty; Visualisation"
+  },
+  {
+    "title": "Incorporating electromagnetic tracking into respiratory correlated imaging for high precision radiation therapy",
+    "keywords": "Localization & tracking technologies; Multi-modality display; Registration; Visualization"
+  },
+  {
+    "title": "Automated detection of a prostate Ni-Ti stent in electronic portal images",
+    "keywords": "Localization; Malignant; Neoplasm; Portal imaging; Prostate; Radiotherapy"
+  },
+  {
+    "title": "Investigating representation alternatives for communicating uncertainty to non-experts",
+    "keywords": "Non-experts; Representations; Uncertainty; Visualizations"
+  },
+  {
+    "title": "Automation and uncertainty analysis of a method for in-vivo range verification in particle therapy",
+    "keywords": "PET; proton therapy; range verification"
+  },
+  {
+    "title": "Uncertainty visualization framework for improving situational awareness in emergency management systems",
+    "keywords": "Situation Awareness; Uncertainty visualization"
+  },
+  {
+    "title": "The Cognitive Visualization of Space in City Walking: Spacescape Experimentation in Italy",
+    "keywords": "Spacescape; Spatial behaviour; Urban planning"
+  },
+  {
+    "title": "Analysis and visualization of sports performance anxiety in tennis matches",
+    "keywords": "Sports analytics; Visual analytics; Visual knowledge discovery; Visual knowledge representation; Visualization"
+  },
+  {
+    "title": "Visualization of uncertainty in tag clouds",
+    "keywords": "Tag cloud; Transparency; Uncertainty; Visualization"
+  },
+  {
+    "title": "Visual analysis of uncertainty in trajectories",
+    "keywords": "trajectory; Uncertainty; visual analysis"
+  }
+]
