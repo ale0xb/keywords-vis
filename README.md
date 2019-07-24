@@ -7,8 +7,7 @@ A [Jupyter](https://jupyter.org/) notebook to visualize learning paths on resear
 
 These are the materials for the paper:
 
-*A. Benito and R. Theron, “Cross-domain Visual Exploration of Academic Corpora via the Latent Meaning of User-authored Keywords”, 06-May-2019. [Online]. Available: https://osf.io/h29qv.*
-
+*A. Benito-Santos and R. T. Sánchez, “Cross-Domain Visual Exploration of Academic Corpora via the Latent Meaning of User-Authored Keywords,” IEEE Access, pp. 1–1, 2019. https://ieeexplore.ieee.org/document/8766090/*
 
 This code implements a visualization scheme to explore a collection of research papers with a pre-defined aim. It offers a perspective of the target dataset that reveals the kind of knowledge you are interested in extracting. 
 
