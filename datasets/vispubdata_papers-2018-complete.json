@@ -828,11 +828,14 @@
     {
         "title": "UFLIC: a line integral convolution algorithm for visualizing unsteady flows",
         "keywords": [
-            "view synthesis",
-            "dynamic scene analysis",
-            "modeling from image sequences",
-            "computer vision and scene understanding",
-            "virtual worlds"
+             "flow visualization", 
+             "vector field visualization", 
+             "image convolution", 
+             "line integral convolution", 
+             "flow animation",
+             "unsteady flows", 
+             "surface flows", 
+             "texture synthesis"
         ],
         "authors": "Han-Wei Shen;David L. Kao",
         "conference": "Vis",
@@ -14816,12 +14819,9 @@
     {
         "title": "A Visual Analytics approach to identifying protein structural constraints",
         "keywords": [
-            "high-order finite elements",
-            "spectral hp elements",
-            "cut-plane extraction",
-            "gpu-based root-finding",
-            "gpu ray-tracing",
-            "cut-surface extraction"
+            "Bioinformatics",
+            "Clustering Classification and Association Rules",
+            "Interactive Data Exploration"
         ],
         "authors": "William C. Ray",
         "conference": "VAST",
